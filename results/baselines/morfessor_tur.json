@@ -1,0 +1,8 @@
+{
+  "label": "morfessor_tur",
+  "metrics": {
+    "n_total": 12824,
+    "exact_match": 0.31986899563318777,
+    "stem_accuracy": 0.35753275109170307
+  }
+}

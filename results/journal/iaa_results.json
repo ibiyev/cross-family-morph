@@ -1,0 +1,134 @@
+[
+  {
+    "language": "aze",
+    "n_overlap": 200,
+    "cohen_kappa_binary": 1.0,
+    "kappa_95ci": [
+      1.0,
+      1.0
+    ],
+    "raw_agreement_binary": 1.0,
+    "gold_string_exact_agreement": 0.935,
+    "kappa_by_morpheme_depth": {
+      "1": {
+        "n": 64,
+        "raw_agreement": 1.0,
+        "kappa": 1.0
+      },
+      "2": {
+        "n": 59,
+        "raw_agreement": 1.0,
+        "kappa": 1.0
+      },
+      "3": {
+        "n": 47,
+        "raw_agreement": 1.0,
+        "kappa": 1.0
+      },
+      "4": {
+        "n": 30,
+        "raw_agreement": 1.0,
+        "kappa": null
+      }
+    }
+  },
+  {
+    "language": "tur",
+    "n_overlap": 200,
+    "cohen_kappa_binary": 1.0,
+    "kappa_95ci": [
+      1.0,
+      1.0
+    ],
+    "raw_agreement_binary": 1.0,
+    "gold_string_exact_agreement": 0.965,
+    "kappa_by_morpheme_depth": {
+      "1": {
+        "n": 43,
+        "raw_agreement": 1.0,
+        "kappa": null
+      },
+      "2": {
+        "n": 68,
+        "raw_agreement": 1.0,
+        "kappa": 1.0
+      },
+      "3": {
+        "n": 52,
+        "raw_agreement": 1.0,
+        "kappa": null
+      },
+      "4": {
+        "n": 37,
+        "raw_agreement": 1.0,
+        "kappa": null
+      }
+    }
+  },
+  {
+    "language": "hun",
+    "n_overlap": 200,
+    "cohen_kappa_binary": 1.0,
+    "kappa_95ci": [
+      1.0,
+      1.0
+    ],
+    "raw_agreement_binary": 1.0,
+    "gold_string_exact_agreement": 0.84,
+    "kappa_by_morpheme_depth": {
+      "1": {
+        "n": 52,
+        "raw_agreement": 1.0,
+        "kappa": 1.0
+      },
+      "2": {
+        "n": 99,
+        "raw_agreement": 1.0,
+        "kappa": 1.0
+      },
+      "3": {
+        "n": 38,
+        "raw_agreement": 1.0,
+        "kappa": null
+      },
+      "4": {
+        "n": 11,
+        "raw_agreement": 1.0,
+        "kappa": null
+      }
+    }
+  },
+  {
+    "language": "fin",
+    "n_overlap": 200,
+    "cohen_kappa_binary": 1.0,
+    "kappa_95ci": [
+      1.0,
+      1.0
+    ],
+    "raw_agreement_binary": 1.0,
+    "gold_string_exact_agreement": 0.955,
+    "kappa_by_morpheme_depth": {
+      "1": {
+        "n": 28,
+        "raw_agreement": 1.0,
+        "kappa": 1.0
+      },
+      "2": {
+        "n": 88,
+        "raw_agreement": 1.0,
+        "kappa": 1.0
+      },
+      "3": {
+        "n": 51,
+        "raw_agreement": 1.0,
+        "kappa": null
+      },
+      "4": {
+        "n": 33,
+        "raw_agreement": 1.0,
+        "kappa": null
+      }
+    }
+  }
+]

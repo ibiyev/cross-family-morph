@@ -1,0 +1,11 @@
+{
+  "label": "fin_to_aze_seed123",
+  "model_dir": "experiments/fin_seed123/best",
+  "test_tsv": "data/test_aze.tsv",
+  "metrics": {
+    "exact_match": 0.6514285714285715,
+    "stem_accuracy": 0.6742857142857143,
+    "suffix_accuracy": 0.6542857142857142,
+    "n_total": 350
+  }
+}

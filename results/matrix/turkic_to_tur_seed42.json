@@ -1,0 +1,11 @@
+{
+  "label": "turkic_to_tur_seed42",
+  "model_dir": "/cross-family-morph/experiments/turkic_seed42/best",
+  "test_tsv": "/cross-family-morph/data/test_tur.tsv",
+  "metrics": {
+    "exact_match": 0.9565658140985652,
+    "stem_accuracy": 0.9567217716781036,
+    "suffix_accuracy": 0.9566437928883343,
+    "n_total": 12824
+  }
+}

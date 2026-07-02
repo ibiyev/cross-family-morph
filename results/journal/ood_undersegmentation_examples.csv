@@ -1,0 +1,21 @@
+﻿language,word,gold_segmentation,n_gold_morphemes,model_pred_seed42,model_pred_seed123,model_pred_seed456,consistent_under_segmentation
+aze,başlanğıcını,baş + la + n + ğıc + ı + n + ı,7,başlanğıc + ını,başlanğıc + ını,başlanğıc + ını,True
+aze,varlılarının,var + lı + lar + ı + n + ın,6,varlı + larının,varlı + larının,varlı + larının,True
+aze,regionlarında,region + lar + ı + n + da,5,region + larında,region + larında,region + larında,True
+aze,şəhərinin,şəhər + i + n + in,4,şəhər + inin,şəhər + inin,şəhər + inin,True
+aze,şimaliqərb,şimal + i + qərb,3,şimaliqərb,şimaliqərb,şimaliqərb,True
+tur,karşılaşılabilir,karşı + laş + ıl + a + bil + ir,6,karşılaş + ılabilir,karşılaş + ılabilir,karşılaş + ılabilir,True
+tur,edilebilir,et + il + e + bil + ir,5,ed + ilebilir,ed + ilebilir,ed + ilebilir,True
+tur,alışveriş,al + ış + ver + iş,4,alışveriş,alışveriş,alışveriş,True
+tur,yağışlı,yağ + ış + lı,3,yağışlı,yağışlı,yağışlı,True
+tur,fiziksel,fizik + sel,2,fiziksel,fiziksel,fiziksel,True
+hun,esőzéseket,eső + z + és + ek + et,5,esőzés + eket,esőzés + eket,esőzés + eket,True
+hun,legcsapadékosabb,leg + csapadék + os + abb,4,legcsapadékosabb,legcsapadékos + abb,legcsapadékosabb,True
+hun,legmagasabb,leg + magas + abb,3,legmagasabb,legmagas + abb,legmagasabb,True
+hun,egykori,egykor + i,2,egykori,egykori,egykori,True
+hun,építészeti,épít + ész + et + i,4,építészeti,építészeti,építészeti,True
+fin,ruotsinkielisiä,ruotsi + n + kieli + s + i + ä,6,ruotsin + kielisiä,ruotsin + kielisiä,ruotsin + kielisiä,True
+fin,Postinumeroalueista,posti + numero + alue + i + sta,5,Postinumeroalue + ista,Postinumeroalue + ista,Postinumeroalue + ista,True
+fin,tyylisuuntien,tyyli + suunta + i + en,4,tyyli + suuntien,tyyli + suuntien,tyyli + suuntien,True
+fin,tyylillisesti,tyyli + llise + sti,3,tyylillisesti,tyylillisesti,tyylillisesti,True
+fin,Eteläsatama,etelä + satama,2,Eteläsatama,Eteläsatama,Eteläsatama,True

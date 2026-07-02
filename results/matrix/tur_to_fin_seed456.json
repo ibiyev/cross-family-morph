@@ -1,0 +1,11 @@
+{
+  "label": "tur_to_fin_seed456",
+  "model_dir": "experiments/tur_seed456/best",
+  "test_tsv": "data/test_fin.tsv",
+  "metrics": {
+    "exact_match": 0.22483352918135527,
+    "stem_accuracy": 0.2264003133568351,
+    "suffix_accuracy": 0.2256169212690952,
+    "n_total": 2553
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "label": "hun_to_fin_seed456",
+  "model_dir": "experiments/hun_seed456/best",
+  "test_tsv": "data/test_fin.tsv",
+  "metrics": {
+    "exact_match": 0.19506462984723855,
+    "stem_accuracy": 0.19663141402271836,
+    "suffix_accuracy": 0.19506462984723855,
+    "n_total": 2553
+  }
+}

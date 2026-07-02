@@ -1,0 +1,10 @@
+{
+  "language": "fin",
+  "test_tsv": "data/test_fin.tsv",
+  "metrics": {
+    "n_total": 2553,
+    "exact_match": 0.19584802193497847,
+    "stem_accuracy": 0.22248335291813554,
+    "suffix_accuracy": 0.19584802193497847
+  }
+}

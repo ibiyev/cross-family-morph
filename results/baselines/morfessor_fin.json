@@ -1,0 +1,8 @@
+{
+  "label": "morfessor_fin",
+  "metrics": {
+    "n_total": 2553,
+    "exact_match": 0.23932628280454368,
+    "stem_accuracy": 0.3889541715628672
+  }
+}

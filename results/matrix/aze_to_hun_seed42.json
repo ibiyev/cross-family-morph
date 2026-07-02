@@ -1,0 +1,11 @@
+{
+  "label": "aze_to_hun_seed42",
+  "model_dir": "/cross-family-morph/experiments/aze_seed42/best",
+  "test_tsv": "/cross-family-morph/data/test_hun.tsv",
+  "metrics": {
+    "exact_match": 0.2530653877037262,
+    "stem_accuracy": 0.25499685323032184,
+    "suffix_accuracy": 0.25378154907875605,
+    "n_total": 46079
+  }
+}

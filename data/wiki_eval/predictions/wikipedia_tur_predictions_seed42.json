@@ -1,0 +1,11 @@
+{
+  "label": "ood_tur_seed42",
+  "model_dir": "/cross-family-morph/experiments/tur_seed42/best",
+  "test_tsv": "/cross-family-morph/data/wiki_eval/candidates/wikipedia_tur_candidates.tsv",
+  "metrics": {
+    "exact_match": 0.355,
+    "stem_accuracy": 0.355,
+    "suffix_accuracy": 0.355,
+    "n_total": 200
+  }
+}

@@ -1,0 +1,201 @@
+﻿language,language_full,family,word,gold_segmentation,n_morphemes,model_prediction_seed42,gold_source,source_article,sentence
+tur,Turkish,Turkic,Bugün,bugün,1,Bugün,consensus,İstanbul,"Bugün İstanbul, eski Konstantinopolis'in metropol hâli olarak kabul edilebilir."
+tur,Turkish,Turkic,İstanbul,istanbul,1,İstanbul,adjudicated,İstanbul,"Bugün İstanbul, eski Konstantinopolis'in metropol hâli olarak kabul edilebilir."
+tur,Turkish,Turkic,Konstantinopolis'in,konstantinopolis + in,2,Konstantinopolis + 'in,consensus,İstanbul,"Bugün İstanbul, eski Konstantinopolis'in metropol hâli olarak kabul edilebilir."
+tur,Turkish,Turkic,metropol,metropol,1,metropol,consensus,İstanbul,"Bugün İstanbul, eski Konstantinopolis'in metropol hâli olarak kabul edilebilir."
+tur,Turkish,Turkic,olarak,ol + a + rak,3,ol + arak,consensus,İstanbul,"Bugün İstanbul, eski Konstantinopolis'in metropol hâli olarak kabul edilebilir."
+tur,Turkish,Turkic,kabul,kabul,1,kabul,consensus,İstanbul,"Bugün İstanbul, eski Konstantinopolis'in metropol hâli olarak kabul edilebilir."
+tur,Turkish,Turkic,edilebilir,et + il + e + bil + ir,5,ed + ilebilir,consensus,İstanbul,"Bugün İstanbul, eski Konstantinopolis'in metropol hâli olarak kabul edilebilir."
+tur,Turkish,Turkic,Cumhuriyet,cumhuriyet,1,Cumhuriyet,consensus,İstanbul,Cumhuriyet dönemi Cumhuriyet sonrası 1923-1950 yılları arasında fiziksel atılımlar oldu.
+tur,Turkish,Turkic,dönemi,dönem + i,2,dönem + i,consensus,İstanbul,Cumhuriyet dönemi Cumhuriyet sonrası 1923-1950 yılları arasında fiziksel atılımlar oldu.
+tur,Turkish,Turkic,sonrası,sonra + sı,2,sonra + sı,consensus,İstanbul,Cumhuriyet dönemi Cumhuriyet sonrası 1923-1950 yılları arasında fiziksel atılımlar oldu.
+tur,Turkish,Turkic,yılları,yıl + lar + ı,3,yıl + ları,consensus,İstanbul,Cumhuriyet dönemi Cumhuriyet sonrası 1923-1950 yılları arasında fiziksel atılımlar oldu.
+tur,Turkish,Turkic,arasında,ara + sı + n + da,4,ara + sında,consensus,İstanbul,Cumhuriyet dönemi Cumhuriyet sonrası 1923-1950 yılları arasında fiziksel atılımlar oldu.
+tur,Turkish,Turkic,fiziksel,fizik + sel,2,fiziksel,consensus,İstanbul,Cumhuriyet dönemi Cumhuriyet sonrası 1923-1950 yılları arasında fiziksel atılımlar oldu.
+tur,Turkish,Turkic,atılımlar,atıl + ım + lar,3,atılım + lar,consensus,İstanbul,Cumhuriyet dönemi Cumhuriyet sonrası 1923-1950 yılları arasında fiziksel atılımlar oldu.
+tur,Turkish,Turkic,İstanbul'un,istanbul + un,2,İstanbul + 'un,adjudicated,İstanbul,"İstanbul'un yazları sıcak ve nemli; kışları soğuk, yağışlı ve bazen karlıdır."
+tur,Turkish,Turkic,yazları,yaz + lar + ı,3,yaz + ları,consensus,İstanbul,"İstanbul'un yazları sıcak ve nemli; kışları soğuk, yağışlı ve bazen karlıdır."
+tur,Turkish,Turkic,sıcak,sıcak,1,sıcak,consensus,İstanbul,"İstanbul'un yazları sıcak ve nemli; kışları soğuk, yağışlı ve bazen karlıdır."
+tur,Turkish,Turkic,nemli,nem + li,2,nemli,consensus,İstanbul,"İstanbul'un yazları sıcak ve nemli; kışları soğuk, yağışlı ve bazen karlıdır."
+tur,Turkish,Turkic,kışları,kış + lar + ı,3,kış + ları,consensus,İstanbul,"İstanbul'un yazları sıcak ve nemli; kışları soğuk, yağışlı ve bazen karlıdır."
+tur,Turkish,Turkic,soğuk,soğuk,1,soğuk,consensus,İstanbul,"İstanbul'un yazları sıcak ve nemli; kışları soğuk, yağışlı ve bazen karlıdır."
+tur,Turkish,Turkic,yağışlı,yağ + ış + lı,3,yağışlı,consensus,İstanbul,"İstanbul'un yazları sıcak ve nemli; kışları soğuk, yağışlı ve bazen karlıdır."
+tur,Turkish,Turkic,bazen,bazen,1,bazen,consensus,İstanbul,"İstanbul'un yazları sıcak ve nemli; kışları soğuk, yağışlı ve bazen karlıdır."
+tur,Turkish,Turkic,karlıdır,kar + lı + dır,3,karlı + dır,consensus,İstanbul,"İstanbul'un yazları sıcak ve nemli; kışları soğuk, yağışlı ve bazen karlıdır."
+tur,Turkish,Turkic,İstanbul'da,i̇stanbul + da,2,İstanbul + 'da,consensus,İstanbul,"İstanbul'da yılın ortalama sıcaklığı 13,7 derecedir."
+tur,Turkish,Turkic,yılın,yıl + ın,2,yıl + ın,consensus,İstanbul,"İstanbul'da yılın ortalama sıcaklığı 13,7 derecedir."
+tur,Turkish,Turkic,ortalama,orta + la + ma,3,ortalama,consensus,İstanbul,"İstanbul'da yılın ortalama sıcaklığı 13,7 derecedir."
+tur,Turkish,Turkic,sıcaklığı,sıcak + lık + ı,3,sıcaklık + ı,adjudicated,İstanbul,"İstanbul'da yılın ortalama sıcaklığı 13,7 derecedir."
+tur,Turkish,Turkic,derecedir,derece + dir,2,derece + dir,consensus,İstanbul,"İstanbul'da yılın ortalama sıcaklığı 13,7 derecedir."
+tur,Turkish,Turkic,Nüfus,nüfus,1,Nüfus,consensus,İstanbul,Nüfus yapısı İstanbul'un şehir yapısı ve şekli sürekli değişmektedir.
+tur,Turkish,Turkic,yapısı,yapı + sı,2,yapı + sı,consensus,İstanbul,Nüfus yapısı İstanbul'un şehir yapısı ve şekli sürekli değişmektedir.
+tur,Turkish,Turkic,şehir,şehir,1,şehir,consensus,İstanbul,Nüfus yapısı İstanbul'un şehir yapısı ve şekli sürekli değişmektedir.
+tur,Turkish,Turkic,şekli,şekil + i,2,şek + li,consensus,İstanbul,Nüfus yapısı İstanbul'un şehir yapısı ve şekli sürekli değişmektedir.
+tur,Turkish,Turkic,sürekli,süre + k + li,3,sürekli,consensus,İstanbul,Nüfus yapısı İstanbul'un şehir yapısı ve şekli sürekli değişmektedir.
+tur,Turkish,Turkic,değişmektedir,değiş + mek + te + dir,4,değiş + mektedir,consensus,İstanbul,Nüfus yapısı İstanbul'un şehir yapısı ve şekli sürekli değişmektedir.
+tur,Turkish,Turkic,Ayrıca,ayrı + ca,2,Ayrıca,consensus,İstanbul,Ayrıca kent içinde yaygın olarak başıboş sokak kedileri ve köpekleriyle karşılaşılabilir.
+tur,Turkish,Turkic,içinde,iç + i + n + de,4,iç + inde,consensus,İstanbul,Ayrıca kent içinde yaygın olarak başıboş sokak kedileri ve köpekleriyle karşılaşılabilir.
+tur,Turkish,Turkic,yaygın,yay + gın,2,yaygın,consensus,İstanbul,Ayrıca kent içinde yaygın olarak başıboş sokak kedileri ve köpekleriyle karşılaşılabilir.
+tur,Turkish,Turkic,başıboş,baş + ı + boş,3,başıboş,adjudicated,İstanbul,Ayrıca kent içinde yaygın olarak başıboş sokak kedileri ve köpekleriyle karşılaşılabilir.
+tur,Turkish,Turkic,sokak,sokak,1,sokak,consensus,İstanbul,Ayrıca kent içinde yaygın olarak başıboş sokak kedileri ve köpekleriyle karşılaşılabilir.
+tur,Turkish,Turkic,kedileri,kedi + ler + i,3,kedi + leri,consensus,İstanbul,Ayrıca kent içinde yaygın olarak başıboş sokak kedileri ve köpekleriyle karşılaşılabilir.
+tur,Turkish,Turkic,köpekleriyle,köpek + ler + i + yle,4,köpek + leriyle,consensus,İstanbul,Ayrıca kent içinde yaygın olarak başıboş sokak kedileri ve köpekleriyle karşılaşılabilir.
+tur,Turkish,Turkic,karşılaşılabilir,karşı + laş + ıl + a + bil + ir,6,karşılaş + ılabilir,consensus,İstanbul,Ayrıca kent içinde yaygın olarak başıboş sokak kedileri ve köpekleriyle karşılaşılabilir.
+tur,Turkish,Turkic,verilerine,ver + i + ler + i + ne,5,veri + lerine,consensus,İstanbul,"2004 yılı verilerine göre çevreyi deniz, gürültü ve hava kategorilerinde, Türkiye'de çevreyi en fazla kirleten il İstanbul'dur."
+tur,Turkish,Turkic,çevreyi,çevre + yi,2,çevre + yi,consensus,İstanbul,"2004 yılı verilerine göre çevreyi deniz, gürültü ve hava kategorilerinde, Türkiye'de çevreyi en fazla kirleten il İstanbul'dur."
+tur,Turkish,Turkic,deniz,deniz,1,deniz,consensus,İstanbul,"2004 yılı verilerine göre çevreyi deniz, gürültü ve hava kategorilerinde, Türkiye'de çevreyi en fazla kirleten il İstanbul'dur."
+tur,Turkish,Turkic,gürültü,gür + ül + tü,3,gürültü,consensus,İstanbul,"2004 yılı verilerine göre çevreyi deniz, gürültü ve hava kategorilerinde, Türkiye'de çevreyi en fazla kirleten il İstanbul'dur."
+tur,Turkish,Turkic,kategorilerinde,kategori + ler + in + de,4,kategori + lerinde,consensus,İstanbul,"2004 yılı verilerine göre çevreyi deniz, gürültü ve hava kategorilerinde, Türkiye'de çevreyi en fazla kirleten il İstanbul'dur."
+tur,Turkish,Turkic,Türkiye'de,türkiye + de,2,Türkiye + 'de,consensus,İstanbul,"2004 yılı verilerine göre çevreyi deniz, gürültü ve hava kategorilerinde, Türkiye'de çevreyi en fazla kirleten il İstanbul'dur."
+tur,Turkish,Turkic,fazla,fazla,1,fazla,consensus,İstanbul,"2004 yılı verilerine göre çevreyi deniz, gürültü ve hava kategorilerinde, Türkiye'de çevreyi en fazla kirleten il İstanbul'dur."
+tur,Turkish,Turkic,kirleten,kir + let + en,3,kirlet + en,consensus,İstanbul,"2004 yılı verilerine göre çevreyi deniz, gürültü ve hava kategorilerinde, Türkiye'de çevreyi en fazla kirleten il İstanbul'dur."
+tur,Turkish,Turkic,İstanbul'dur,i̇stanbul + dur,2,İstanbul + 'dur,consensus,İstanbul,"2004 yılı verilerine göre çevreyi deniz, gürültü ve hava kategorilerinde, Türkiye'de çevreyi en fazla kirleten il İstanbul'dur."
+tur,Turkish,Turkic,Şehirdeki,şehir + de + ki,3,şehir + deki,consensus,İstanbul,"Şehirdeki en yüksek üç nokta sırasıyla 537 metrelik Aydos Tepesi, 438 metrelik Kayış Dağı, 442 metrelik Alemdağ'dır."
+tur,Turkish,Turkic,yüksek,yüksek,1,yüksek,consensus,İstanbul,"Şehirdeki en yüksek üç nokta sırasıyla 537 metrelik Aydos Tepesi, 438 metrelik Kayış Dağı, 442 metrelik Alemdağ'dır."
+tur,Turkish,Turkic,nokta,nokta,1,nokta,consensus,İstanbul,"Şehirdeki en yüksek üç nokta sırasıyla 537 metrelik Aydos Tepesi, 438 metrelik Kayış Dağı, 442 metrelik Alemdağ'dır."
+tur,Turkish,Turkic,sırasıyla,sıra + sı + y + la,4,sıra + sıyla,consensus,İstanbul,"Şehirdeki en yüksek üç nokta sırasıyla 537 metrelik Aydos Tepesi, 438 metrelik Kayış Dağı, 442 metrelik Alemdağ'dır."
+tur,Turkish,Turkic,metrelik,metr + e + lik,3,metrelik,adjudicated,İstanbul,"Şehirdeki en yüksek üç nokta sırasıyla 537 metrelik Aydos Tepesi, 438 metrelik Kayış Dağı, 442 metrelik Alemdağ'dır."
+tur,Turkish,Turkic,Aydos,aydos,1,Aydos,consensus,İstanbul,"Şehirdeki en yüksek üç nokta sırasıyla 537 metrelik Aydos Tepesi, 438 metrelik Kayış Dağı, 442 metrelik Alemdağ'dır."
+tur,Turkish,Turkic,Tepesi,tepe + si,2,Tepe + si,consensus,İstanbul,"Şehirdeki en yüksek üç nokta sırasıyla 537 metrelik Aydos Tepesi, 438 metrelik Kayış Dağı, 442 metrelik Alemdağ'dır."
+tur,Turkish,Turkic,Kayış,kayış,1,Kayış,consensus,İstanbul,"Şehirdeki en yüksek üç nokta sırasıyla 537 metrelik Aydos Tepesi, 438 metrelik Kayış Dağı, 442 metrelik Alemdağ'dır."
+tur,Turkish,Turkic,Alemdağ'dır,alemdağ + dır,2,Alemdağ + 'dır,consensus,İstanbul,"Şehirdeki en yüksek üç nokta sırasıyla 537 metrelik Aydos Tepesi, 438 metrelik Kayış Dağı, 442 metrelik Alemdağ'dır."
+tur,Turkish,Turkic,Kadıköy,kadıköy,1,Kadıköy,consensus,İstanbul,Kadıköy ilçesindeki Bağdat Caddesi genişliği ve uzunluğuyla birçok alışveriş merkezi ve restoranı barındırmaktadır.
+tur,Turkish,Turkic,ilçesindeki,ilçe + si + n + deki,4,ilçe + sindeki,adjudicated,İstanbul,Kadıköy ilçesindeki Bağdat Caddesi genişliği ve uzunluğuyla birçok alışveriş merkezi ve restoranı barındırmaktadır.
+tur,Turkish,Turkic,Bağdat,bağdat,1,Bağdat,consensus,İstanbul,Kadıköy ilçesindeki Bağdat Caddesi genişliği ve uzunluğuyla birçok alışveriş merkezi ve restoranı barındırmaktadır.
+tur,Turkish,Turkic,Caddesi,cadde + si,2,Cadde + si,consensus,İstanbul,Kadıköy ilçesindeki Bağdat Caddesi genişliği ve uzunluğuyla birçok alışveriş merkezi ve restoranı barındırmaktadır.
+tur,Turkish,Turkic,genişliği,geniş + lik + i,3,genişlik + i,consensus,İstanbul,Kadıköy ilçesindeki Bağdat Caddesi genişliği ve uzunluğuyla birçok alışveriş merkezi ve restoranı barındırmaktadır.
+tur,Turkish,Turkic,uzunluğuyla,uzun + luk + u + y + la,5,uzunluk + uyla,adjudicated,İstanbul,Kadıköy ilçesindeki Bağdat Caddesi genişliği ve uzunluğuyla birçok alışveriş merkezi ve restoranı barındırmaktadır.
+tur,Turkish,Turkic,birçok,birçok,1,birçok,consensus,İstanbul,Kadıköy ilçesindeki Bağdat Caddesi genişliği ve uzunluğuyla birçok alışveriş merkezi ve restoranı barındırmaktadır.
+tur,Turkish,Turkic,alışveriş,al + ış + ver + iş,4,alışveriş,consensus,İstanbul,Kadıköy ilçesindeki Bağdat Caddesi genişliği ve uzunluğuyla birçok alışveriş merkezi ve restoranı barındırmaktadır.
+tur,Turkish,Turkic,merkezi,merkez + i,2,merkez + i,consensus,İstanbul,Kadıköy ilçesindeki Bağdat Caddesi genişliği ve uzunluğuyla birçok alışveriş merkezi ve restoranı barındırmaktadır.
+tur,Turkish,Turkic,restoranı,restoran + ı,2,restoran + ı,consensus,İstanbul,Kadıköy ilçesindeki Bağdat Caddesi genişliği ve uzunluğuyla birçok alışveriş merkezi ve restoranı barındırmaktadır.
+tur,Turkish,Turkic,barındırmaktadır,barın + dır + mak + ta + dır,5,barın + dırmaktadır,consensus,İstanbul,Kadıköy ilçesindeki Bağdat Caddesi genişliği ve uzunluğuyla birçok alışveriş merkezi ve restoranı barındırmaktadır.
+tur,Turkish,Turkic,Yahudiler,yahudi + ler,2,Yahudi + ler,consensus,İstanbul,Yahudiler Sefarad Yahudileri 500 yılı aşkın süredir bu şehirde yaşamaktadırlar.
+tur,Turkish,Turkic,Sefarad,sefarad,1,Sefarad,consensus,İstanbul,Yahudiler Sefarad Yahudileri 500 yılı aşkın süredir bu şehirde yaşamaktadırlar.
+tur,Turkish,Turkic,Yahudileri,yahudi + ler + i,3,Yahudi + leri,consensus,İstanbul,Yahudiler Sefarad Yahudileri 500 yılı aşkın süredir bu şehirde yaşamaktadırlar.
+tur,Turkish,Turkic,aşkın,aşk + ın,2,aşk + ın,consensus,İstanbul,Yahudiler Sefarad Yahudileri 500 yılı aşkın süredir bu şehirde yaşamaktadırlar.
+tur,Turkish,Turkic,süredir,süre + dir,2,süre + dir,consensus,İstanbul,Yahudiler Sefarad Yahudileri 500 yılı aşkın süredir bu şehirde yaşamaktadırlar.
+tur,Turkish,Turkic,şehirde,şehir + de,2,şehir + de,consensus,İstanbul,Yahudiler Sefarad Yahudileri 500 yılı aşkın süredir bu şehirde yaşamaktadırlar.
+tur,Turkish,Turkic,yaşamaktadırlar,yaşa + makta + dır + lar,4,yaşa + maktadırlar,consensus,İstanbul,Yahudiler Sefarad Yahudileri 500 yılı aşkın süredir bu şehirde yaşamaktadırlar.
+tur,Turkish,Turkic,Kentin,kent + in,2,Kent + in,consensus,İstanbul,Kentin silüetini bozan ve halkın denizle olan bağını koparan projeler özellikle Ataköy ve Zeytinburnu'nda mahkeme kararlarına rağmen yapılmışlardır.
+tur,Turkish,Turkic,silüetini,silüet + i + n + i,4,silüet + ini,adjudicated,İstanbul,Kentin silüetini bozan ve halkın denizle olan bağını koparan projeler özellikle Ataköy ve Zeytinburnu'nda mahkeme kararlarına rağmen yapılmışlardır.
+tur,Turkish,Turkic,bozan,boz + an,2,boza + n,consensus,İstanbul,Kentin silüetini bozan ve halkın denizle olan bağını koparan projeler özellikle Ataköy ve Zeytinburnu'nda mahkeme kararlarına rağmen yapılmışlardır.
+tur,Turkish,Turkic,halkın,halk + ın,2,halk + ın,consensus,İstanbul,Kentin silüetini bozan ve halkın denizle olan bağını koparan projeler özellikle Ataköy ve Zeytinburnu'nda mahkeme kararlarına rağmen yapılmışlardır.
+tur,Turkish,Turkic,denizle,deniz + le,2,deniz + le,consensus,İstanbul,Kentin silüetini bozan ve halkın denizle olan bağını koparan projeler özellikle Ataköy ve Zeytinburnu'nda mahkeme kararlarına rağmen yapılmışlardır.
+tur,Turkish,Turkic,bağını,bağ + ı + n + ı,4,bağ + ın + ı,adjudicated,İstanbul,Kentin silüetini bozan ve halkın denizle olan bağını koparan projeler özellikle Ataköy ve Zeytinburnu'nda mahkeme kararlarına rağmen yapılmışlardır.
+tur,Turkish,Turkic,koparan,kop + ar + an,3,kopar + an,consensus,İstanbul,Kentin silüetini bozan ve halkın denizle olan bağını koparan projeler özellikle Ataköy ve Zeytinburnu'nda mahkeme kararlarına rağmen yapılmışlardır.
+tur,Turkish,Turkic,projeler,proje + ler,2,proje + ler,consensus,İstanbul,Kentin silüetini bozan ve halkın denizle olan bağını koparan projeler özellikle Ataköy ve Zeytinburnu'nda mahkeme kararlarına rağmen yapılmışlardır.
+tur,Turkish,Turkic,özellikle,özel + lik + le,3,özellik + le,consensus,İstanbul,Kentin silüetini bozan ve halkın denizle olan bağını koparan projeler özellikle Ataköy ve Zeytinburnu'nda mahkeme kararlarına rağmen yapılmışlardır.
+tur,Turkish,Turkic,Ataköy,ataköy,1,Ataköy,consensus,İstanbul,Kentin silüetini bozan ve halkın denizle olan bağını koparan projeler özellikle Ataköy ve Zeytinburnu'nda mahkeme kararlarına rağmen yapılmışlardır.
+tur,Turkish,Turkic,Zeytinburnu'nda,zeytinburnu + n + da,3,Zeytinburnu + 'nda,consensus,İstanbul,Kentin silüetini bozan ve halkın denizle olan bağını koparan projeler özellikle Ataköy ve Zeytinburnu'nda mahkeme kararlarına rağmen yapılmışlardır.
+tur,Turkish,Turkic,mahkeme,mahkeme,1,mahkeme,consensus,İstanbul,Kentin silüetini bozan ve halkın denizle olan bağını koparan projeler özellikle Ataköy ve Zeytinburnu'nda mahkeme kararlarına rağmen yapılmışlardır.
+tur,Turkish,Turkic,kararlarına,karar + lar + ı + n + a,5,karar + larına,consensus,İstanbul,Kentin silüetini bozan ve halkın denizle olan bağını koparan projeler özellikle Ataköy ve Zeytinburnu'nda mahkeme kararlarına rağmen yapılmışlardır.
+tur,Turkish,Turkic,rağmen,rağmen,1,rağmen,consensus,İstanbul,Kentin silüetini bozan ve halkın denizle olan bağını koparan projeler özellikle Ataköy ve Zeytinburnu'nda mahkeme kararlarına rağmen yapılmışlardır.
+tur,Turkish,Turkic,yapılmışlardır,yap + ıl + mış + lar + dır,5,yapıl + mışlardır,adjudicated,İstanbul,Kentin silüetini bozan ve halkın denizle olan bağını koparan projeler özellikle Ataköy ve Zeytinburnu'nda mahkeme kararlarına rağmen yapılmışlardır.
+tur,Turkish,Turkic,Yaklaşık,yaklaş + ık,2,Yaklaşık,consensus,İstanbul,Yaklaşık olarak %38'lik endüstriyel alana sahiptir.
+tur,Turkish,Turkic,endüstriyel,endüstri + yel,2,endüstriyel,consensus,İstanbul,Yaklaşık olarak %38'lik endüstriyel alana sahiptir.
+tur,Turkish,Turkic,alana,alan + a,2,alan + a,consensus,İstanbul,Yaklaşık olarak %38'lik endüstriyel alana sahiptir.
+tur,Turkish,Turkic,sahiptir,sahip + tir,2,sahip + tir,consensus,İstanbul,Yaklaşık olarak %38'lik endüstriyel alana sahiptir.
+tur,Turkish,Turkic,yüzyılda,yüzyıl + da,2,yüzyıl + da,consensus,İstanbul,"yüzyılda, kenti Romalılar ele geçirince, onlar tarafından Latinceleştirilmiş hâlidir."
+tur,Turkish,Turkic,kenti,kent + i,2,kent + i,consensus,İstanbul,"yüzyılda, kenti Romalılar ele geçirince, onlar tarafından Latinceleştirilmiş hâlidir."
+tur,Turkish,Turkic,Romalılar,roma + lı + lar,3,Romalı + lar,consensus,İstanbul,"yüzyılda, kenti Romalılar ele geçirince, onlar tarafından Latinceleştirilmiş hâlidir."
+tur,Turkish,Turkic,geçirince,geç + ir + ince,3,geçir + ince,consensus,İstanbul,"yüzyılda, kenti Romalılar ele geçirince, onlar tarafından Latinceleştirilmiş hâlidir."
+tur,Turkish,Turkic,onlar,o + n + lar,3,o + nlar,consensus,İstanbul,"yüzyılda, kenti Romalılar ele geçirince, onlar tarafından Latinceleştirilmiş hâlidir."
+tur,Turkish,Turkic,tarafından,taraf + ı + n + dan,4,taraf + ından,consensus,İstanbul,"yüzyılda, kenti Romalılar ele geçirince, onlar tarafından Latinceleştirilmiş hâlidir."
+tur,Turkish,Turkic,Latinceleştirilmiş,latin + ce + leş + tir + il + miş,6,Latinceleş + tirilmiş,consensus,İstanbul,"yüzyılda, kenti Romalılar ele geçirince, onlar tarafından Latinceleştirilmiş hâlidir."
+tur,Turkish,Turkic,hâlidir,hâl + i + dir,3,hâl + idir,consensus,İstanbul,"yüzyılda, kenti Romalılar ele geçirince, onlar tarafından Latinceleştirilmiş hâlidir."
+tur,Turkish,Turkic,Genel,genel,1,Genel,consensus,İstanbul,"Genel olarak kentin günlük tüketimine yönelik yapılan bu üretim çiftlik, mandıra ve ağıllarda, sığır besiciliği, tavukçuluk ve balıkçılık üzerine yoğunlaşmıştır."
+tur,Turkish,Turkic,günlük,gün + lük,2,günlük,consensus,İstanbul,"Genel olarak kentin günlük tüketimine yönelik yapılan bu üretim çiftlik, mandıra ve ağıllarda, sığır besiciliği, tavukçuluk ve balıkçılık üzerine yoğunlaşmıştır."
+tur,Turkish,Turkic,tüketimine,tüket + im + i + n + e,5,tüketim + ine,consensus,İstanbul,"Genel olarak kentin günlük tüketimine yönelik yapılan bu üretim çiftlik, mandıra ve ağıllarda, sığır besiciliği, tavukçuluk ve balıkçılık üzerine yoğunlaşmıştır."
+tur,Turkish,Turkic,yönelik,yön + el + ik,3,yönelik,consensus,İstanbul,"Genel olarak kentin günlük tüketimine yönelik yapılan bu üretim çiftlik, mandıra ve ağıllarda, sığır besiciliği, tavukçuluk ve balıkçılık üzerine yoğunlaşmıştır."
+tur,Turkish,Turkic,yapılan,yap + ıl + an,3,yap + ılan,consensus,İstanbul,"Genel olarak kentin günlük tüketimine yönelik yapılan bu üretim çiftlik, mandıra ve ağıllarda, sığır besiciliği, tavukçuluk ve balıkçılık üzerine yoğunlaşmıştır."
+tur,Turkish,Turkic,üretim,üret + im,2,üretim,consensus,İstanbul,"Genel olarak kentin günlük tüketimine yönelik yapılan bu üretim çiftlik, mandıra ve ağıllarda, sığır besiciliği, tavukçuluk ve balıkçılık üzerine yoğunlaşmıştır."
+tur,Turkish,Turkic,çiftlik,çift + lik,2,çiftlik,consensus,İstanbul,"Genel olarak kentin günlük tüketimine yönelik yapılan bu üretim çiftlik, mandıra ve ağıllarda, sığır besiciliği, tavukçuluk ve balıkçılık üzerine yoğunlaşmıştır."
+tur,Turkish,Turkic,mandıra,mandıra,1,mandıra,consensus,İstanbul,"Genel olarak kentin günlük tüketimine yönelik yapılan bu üretim çiftlik, mandıra ve ağıllarda, sığır besiciliği, tavukçuluk ve balıkçılık üzerine yoğunlaşmıştır."
+tur,Turkish,Turkic,ağıllarda,ağıl + lar + da,3,ağıl + larda,consensus,İstanbul,"Genel olarak kentin günlük tüketimine yönelik yapılan bu üretim çiftlik, mandıra ve ağıllarda, sığır besiciliği, tavukçuluk ve balıkçılık üzerine yoğunlaşmıştır."
+tur,Turkish,Turkic,sığır,sığır,1,sığır,consensus,İstanbul,"Genel olarak kentin günlük tüketimine yönelik yapılan bu üretim çiftlik, mandıra ve ağıllarda, sığır besiciliği, tavukçuluk ve balıkçılık üzerine yoğunlaşmıştır."
+tur,Turkish,Turkic,besiciliği,besi + ci + lik + i,4,besicilik + i,consensus,İstanbul,"Genel olarak kentin günlük tüketimine yönelik yapılan bu üretim çiftlik, mandıra ve ağıllarda, sığır besiciliği, tavukçuluk ve balıkçılık üzerine yoğunlaşmıştır."
+tur,Turkish,Turkic,tavukçuluk,tavuk + çu + luk,3,tavukçuluk,consensus,İstanbul,"Genel olarak kentin günlük tüketimine yönelik yapılan bu üretim çiftlik, mandıra ve ağıllarda, sığır besiciliği, tavukçuluk ve balıkçılık üzerine yoğunlaşmıştır."
+tur,Turkish,Turkic,balıkçılık,balık + çı + lık,3,balıkçılık,consensus,İstanbul,"Genel olarak kentin günlük tüketimine yönelik yapılan bu üretim çiftlik, mandıra ve ağıllarda, sığır besiciliği, tavukçuluk ve balıkçılık üzerine yoğunlaşmıştır."
+tur,Turkish,Turkic,üzerine,üzeri + n + e,3,üzer + ine,consensus,İstanbul,"Genel olarak kentin günlük tüketimine yönelik yapılan bu üretim çiftlik, mandıra ve ağıllarda, sığır besiciliği, tavukçuluk ve balıkçılık üzerine yoğunlaşmıştır."
+tur,Turkish,Turkic,yoğunlaşmıştır,yoğun + laş + mış + tır,4,yoğunlaş + mıştır,consensus,İstanbul,"Genel olarak kentin günlük tüketimine yönelik yapılan bu üretim çiftlik, mandıra ve ağıllarda, sığır besiciliği, tavukçuluk ve balıkçılık üzerine yoğunlaşmıştır."
+tur,Turkish,Turkic,Manganez,manganez,1,Manganez,consensus,İstanbul,Manganez madenleri şehrin batısında Çatalca ve Silivri ilçelerinde bulunmaktadır.
+tur,Turkish,Turkic,madenleri,maden + ler + i,3,maden + leri,consensus,İstanbul,Manganez madenleri şehrin batısında Çatalca ve Silivri ilçelerinde bulunmaktadır.
+tur,Turkish,Turkic,şehrin,şehr + in,2,şeh + rin,consensus,İstanbul,Manganez madenleri şehrin batısında Çatalca ve Silivri ilçelerinde bulunmaktadır.
+tur,Turkish,Turkic,batısında,batı + sı + n + da,4,batı + sında,consensus,İstanbul,Manganez madenleri şehrin batısında Çatalca ve Silivri ilçelerinde bulunmaktadır.
+tur,Turkish,Turkic,Çatalca,çatalca,1,Çatalca,consensus,İstanbul,Manganez madenleri şehrin batısında Çatalca ve Silivri ilçelerinde bulunmaktadır.
+tur,Turkish,Turkic,Silivri,silivri,1,Silivri,consensus,İstanbul,Manganez madenleri şehrin batısında Çatalca ve Silivri ilçelerinde bulunmaktadır.
+tur,Turkish,Turkic,ilçelerinde,il + çe + ler + i + n + de,6,ilçe + lerinde,consensus,İstanbul,Manganez madenleri şehrin batısında Çatalca ve Silivri ilçelerinde bulunmaktadır.
+tur,Turkish,Turkic,bulunmaktadır,bul + un + mak + ta + dır,5,bulun + maktadır,consensus,İstanbul,Manganez madenleri şehrin batısında Çatalca ve Silivri ilçelerinde bulunmaktadır.
+tur,Turkish,Turkic,Envanterlerde,envanter + ler + de,3,Envanter + lerde,consensus,İstanbul,"Envanterlerde kayıtlı binlerce tarihî eser arasında, kent duvarları, saraylar, kasırlar, camiler, kiliseler, sinagoglar, çeşmeler ve konaklar bulunur."
+tur,Turkish,Turkic,kayıtlı,kayıt + lı,2,kayıtlı,consensus,İstanbul,"Envanterlerde kayıtlı binlerce tarihî eser arasında, kent duvarları, saraylar, kasırlar, camiler, kiliseler, sinagoglar, çeşmeler ve konaklar bulunur."
+tur,Turkish,Turkic,binlerce,bin + ler + ce,3,binlerce,consensus,İstanbul,"Envanterlerde kayıtlı binlerce tarihî eser arasında, kent duvarları, saraylar, kasırlar, camiler, kiliseler, sinagoglar, çeşmeler ve konaklar bulunur."
+tur,Turkish,Turkic,tarihî,tarih + i,2,tarihî,consensus,İstanbul,"Envanterlerde kayıtlı binlerce tarihî eser arasında, kent duvarları, saraylar, kasırlar, camiler, kiliseler, sinagoglar, çeşmeler ve konaklar bulunur."
+tur,Turkish,Turkic,duvarları,duvar + lar + ı,3,duvar + ları,consensus,İstanbul,"Envanterlerde kayıtlı binlerce tarihî eser arasında, kent duvarları, saraylar, kasırlar, camiler, kiliseler, sinagoglar, çeşmeler ve konaklar bulunur."
+tur,Turkish,Turkic,saraylar,saray + lar,2,saray + lar,consensus,İstanbul,"Envanterlerde kayıtlı binlerce tarihî eser arasında, kent duvarları, saraylar, kasırlar, camiler, kiliseler, sinagoglar, çeşmeler ve konaklar bulunur."
+tur,Turkish,Turkic,kasırlar,kasır + lar,2,kasır + lar,consensus,İstanbul,"Envanterlerde kayıtlı binlerce tarihî eser arasında, kent duvarları, saraylar, kasırlar, camiler, kiliseler, sinagoglar, çeşmeler ve konaklar bulunur."
+tur,Turkish,Turkic,camiler,cami + ler,2,cami + ler,consensus,İstanbul,"Envanterlerde kayıtlı binlerce tarihî eser arasında, kent duvarları, saraylar, kasırlar, camiler, kiliseler, sinagoglar, çeşmeler ve konaklar bulunur."
+tur,Turkish,Turkic,kiliseler,kilise + ler,2,kilise + ler,consensus,İstanbul,"Envanterlerde kayıtlı binlerce tarihî eser arasında, kent duvarları, saraylar, kasırlar, camiler, kiliseler, sinagoglar, çeşmeler ve konaklar bulunur."
+tur,Turkish,Turkic,sinagoglar,sinagog + lar,2,sinagog + lar,consensus,İstanbul,"Envanterlerde kayıtlı binlerce tarihî eser arasında, kent duvarları, saraylar, kasırlar, camiler, kiliseler, sinagoglar, çeşmeler ve konaklar bulunur."
+tur,Turkish,Turkic,çeşmeler,çeşme + ler,2,çeşme + ler,consensus,İstanbul,"Envanterlerde kayıtlı binlerce tarihî eser arasında, kent duvarları, saraylar, kasırlar, camiler, kiliseler, sinagoglar, çeşmeler ve konaklar bulunur."
+tur,Turkish,Turkic,konaklar,konak + lar,2,konak + lar,consensus,İstanbul,"Envanterlerde kayıtlı binlerce tarihî eser arasında, kent duvarları, saraylar, kasırlar, camiler, kiliseler, sinagoglar, çeşmeler ve konaklar bulunur."
+tur,Turkish,Turkic,bulunur,bul + un + ur,3,bulun + ur,consensus,İstanbul,"Envanterlerde kayıtlı binlerce tarihî eser arasında, kent duvarları, saraylar, kasırlar, camiler, kiliseler, sinagoglar, çeşmeler ve konaklar bulunur."
+tur,Turkish,Turkic,ancak,ancak,1,ancak,consensus,İstanbul,"İstanbul adı, ancak 1928'de Latin harflerine geçilmesi sonrası Batı dillerinde Konstantinopolis'in yerini almaya başladı."
+tur,Turkish,Turkic,Latin,latin,1,Latin,consensus,İstanbul,"İstanbul adı, ancak 1928'de Latin harflerine geçilmesi sonrası Batı dillerinde Konstantinopolis'in yerini almaya başladı."
+tur,Turkish,Turkic,harflerine,harf + ler + i + n + e,5,harf + lerine,consensus,İstanbul,"İstanbul adı, ancak 1928'de Latin harflerine geçilmesi sonrası Batı dillerinde Konstantinopolis'in yerini almaya başladı."
+tur,Turkish,Turkic,geçilmesi,geç + il + me + si,4,geç + ilmesi,consensus,İstanbul,"İstanbul adı, ancak 1928'de Latin harflerine geçilmesi sonrası Batı dillerinde Konstantinopolis'in yerini almaya başladı."
+tur,Turkish,Turkic,dillerinde,dil + ler + i + n + de,5,dil + lerinde,consensus,İstanbul,"İstanbul adı, ancak 1928'de Latin harflerine geçilmesi sonrası Batı dillerinde Konstantinopolis'in yerini almaya başladı."
+tur,Turkish,Turkic,yerini,yer + in + i,3,yer + ini,consensus,İstanbul,"İstanbul adı, ancak 1928'de Latin harflerine geçilmesi sonrası Batı dillerinde Konstantinopolis'in yerini almaya başladı."
+tur,Turkish,Turkic,almaya,almak + y + a,3,al + maya,consensus,İstanbul,"İstanbul adı, ancak 1928'de Latin harflerine geçilmesi sonrası Batı dillerinde Konstantinopolis'in yerini almaya başladı."
+tur,Turkish,Turkic,başladı,başla + dı,2,başla + dı,consensus,İstanbul,"İstanbul adı, ancak 1928'de Latin harflerine geçilmesi sonrası Batı dillerinde Konstantinopolis'in yerini almaya başladı."
+tur,Turkish,Turkic,canlılar,canlı + lar,2,canlı + lar,consensus,İstanbul,Ancak bugün bu canlılar İstanbul direyinden bütünüyle silinmiş durumdadır.
+tur,Turkish,Turkic,direyinden,direk + in + den,3,direy + inden,consensus,İstanbul,Ancak bugün bu canlılar İstanbul direyinden bütünüyle silinmiş durumdadır.
+tur,Turkish,Turkic,bütünüyle,bütün + ü + y + le,4,bütün + üyle,consensus,İstanbul,Ancak bugün bu canlılar İstanbul direyinden bütünüyle silinmiş durumdadır.
+tur,Turkish,Turkic,silinmiş,sil + in + miş,3,sil + inmiş,consensus,İstanbul,Ancak bugün bu canlılar İstanbul direyinden bütünüyle silinmiş durumdadır.
+tur,Turkish,Turkic,durumdadır,durum + da + dır,3,durum + dadır,consensus,İstanbul,Ancak bugün bu canlılar İstanbul direyinden bütünüyle silinmiş durumdadır.
+tur,Turkish,Turkic,dönemde,dönem + de,2,dönem + de,consensus,İstanbul,Bu dönemde otomobil sayısının artması ve sonucunda trafiğin artması Boğaziçi Köprüsü'nün yapılmasında etkili oldu ve ulaşımda önemli bir noktaya varıldı.
+tur,Turkish,Turkic,otomobil,otomobil,1,otomobil,consensus,İstanbul,Bu dönemde otomobil sayısının artması ve sonucunda trafiğin artması Boğaziçi Köprüsü'nün yapılmasında etkili oldu ve ulaşımda önemli bir noktaya varıldı.
+tur,Turkish,Turkic,sayısının,sayı + sı + n + ın,4,sayı + sının,consensus,İstanbul,Bu dönemde otomobil sayısının artması ve sonucunda trafiğin artması Boğaziçi Köprüsü'nün yapılmasında etkili oldu ve ulaşımda önemli bir noktaya varıldı.
+tur,Turkish,Turkic,artması,art + ma + sı,3,art + ması,consensus,İstanbul,Bu dönemde otomobil sayısının artması ve sonucunda trafiğin artması Boğaziçi Köprüsü'nün yapılmasında etkili oldu ve ulaşımda önemli bir noktaya varıldı.
+tur,Turkish,Turkic,sonucunda,sonuc + u + n + da,4,sonuc + unda,consensus,İstanbul,Bu dönemde otomobil sayısının artması ve sonucunda trafiğin artması Boğaziçi Köprüsü'nün yapılmasında etkili oldu ve ulaşımda önemli bir noktaya varıldı.
+tur,Turkish,Turkic,trafiğin,trafik + in,2,trafik + in,consensus,İstanbul,Bu dönemde otomobil sayısının artması ve sonucunda trafiğin artması Boğaziçi Köprüsü'nün yapılmasında etkili oldu ve ulaşımda önemli bir noktaya varıldı.
+tur,Turkish,Turkic,Boğaziçi,boğaziçi,1,Boğaziçi,consensus,İstanbul,Bu dönemde otomobil sayısının artması ve sonucunda trafiğin artması Boğaziçi Köprüsü'nün yapılmasında etkili oldu ve ulaşımda önemli bir noktaya varıldı.
+tur,Turkish,Turkic,Köprüsü'nün,köprü + sü + n + ün,4,Köprü + sü'nün,consensus,İstanbul,Bu dönemde otomobil sayısının artması ve sonucunda trafiğin artması Boğaziçi Köprüsü'nün yapılmasında etkili oldu ve ulaşımda önemli bir noktaya varıldı.
+tur,Turkish,Turkic,yapılmasında,yap + ıl + ma + sı + n + da,6,yap + ılmasında,consensus,İstanbul,Bu dönemde otomobil sayısının artması ve sonucunda trafiğin artması Boğaziçi Köprüsü'nün yapılmasında etkili oldu ve ulaşımda önemli bir noktaya varıldı.
+tur,Turkish,Turkic,etkili,etki + li,2,etkili,consensus,İstanbul,Bu dönemde otomobil sayısının artması ve sonucunda trafiğin artması Boğaziçi Köprüsü'nün yapılmasında etkili oldu ve ulaşımda önemli bir noktaya varıldı.
+tur,Turkish,Turkic,ulaşımda,ulaş + ım + da,3,ulaşım + da,consensus,İstanbul,Bu dönemde otomobil sayısının artması ve sonucunda trafiğin artması Boğaziçi Köprüsü'nün yapılmasında etkili oldu ve ulaşımda önemli bir noktaya varıldı.
+tur,Turkish,Turkic,önemli,önem + li,2,önemli,consensus,İstanbul,Bu dönemde otomobil sayısının artması ve sonucunda trafiğin artması Boğaziçi Köprüsü'nün yapılmasında etkili oldu ve ulaşımda önemli bir noktaya varıldı.
+tur,Turkish,Turkic,noktaya,nokta + y + a,3,nokta + ya,consensus,İstanbul,Bu dönemde otomobil sayısının artması ve sonucunda trafiğin artması Boğaziçi Köprüsü'nün yapılmasında etkili oldu ve ulaşımda önemli bir noktaya varıldı.
+tur,Turkish,Turkic,varıldı,var + ıl + dı,3,var + ıldı,consensus,İstanbul,Bu dönemde otomobil sayısının artması ve sonucunda trafiğin artması Boğaziçi Köprüsü'nün yapılmasında etkili oldu ve ulaşımda önemli bir noktaya varıldı.
+tur,Turkish,Turkic,Lygos,lygos,1,Lygos,consensus,İstanbul,"Kral Lygos zamanında Sarayburnu'na, bugünkü Topkapı Sarayı'nın bulunduğu yerde bir Akropolis kuruldu."
+tur,Turkish,Turkic,zamanında,zaman + ı + n + da,4,zaman + ında,consensus,İstanbul,"Kral Lygos zamanında Sarayburnu'na, bugünkü Topkapı Sarayı'nın bulunduğu yerde bir Akropolis kuruldu."
+tur,Turkish,Turkic,Sarayburnu'na,sarayburnu + n + a,3,Sarayburnu + 'na,consensus,İstanbul,"Kral Lygos zamanında Sarayburnu'na, bugünkü Topkapı Sarayı'nın bulunduğu yerde bir Akropolis kuruldu."
+tur,Turkish,Turkic,bugünkü,bugün + kü,2,bugünkü,consensus,İstanbul,"Kral Lygos zamanında Sarayburnu'na, bugünkü Topkapı Sarayı'nın bulunduğu yerde bir Akropolis kuruldu."
+tur,Turkish,Turkic,Topkapı,topkapı,1,Topkapı,consensus,İstanbul,"Kral Lygos zamanında Sarayburnu'na, bugünkü Topkapı Sarayı'nın bulunduğu yerde bir Akropolis kuruldu."
+tur,Turkish,Turkic,Sarayı'nın,saray + ı + n + ın,4,Saray + ı'nın,consensus,İstanbul,"Kral Lygos zamanında Sarayburnu'na, bugünkü Topkapı Sarayı'nın bulunduğu yerde bir Akropolis kuruldu."
+tur,Turkish,Turkic,bulunduğu,bul + un + duk + u,4,bulun + duğu,consensus,İstanbul,"Kral Lygos zamanında Sarayburnu'na, bugünkü Topkapı Sarayı'nın bulunduğu yerde bir Akropolis kuruldu."
+tur,Turkish,Turkic,yerde,yer + de,2,yer + de,consensus,İstanbul,"Kral Lygos zamanında Sarayburnu'na, bugünkü Topkapı Sarayı'nın bulunduğu yerde bir Akropolis kuruldu."
+tur,Turkish,Turkic,Akropolis,akropolis,1,Akropolis,consensus,İstanbul,"Kral Lygos zamanında Sarayburnu'na, bugünkü Topkapı Sarayı'nın bulunduğu yerde bir Akropolis kuruldu."
+tur,Turkish,Turkic,kuruldu,kur + ul + du,3,kur + uldu,consensus,İstanbul,"Kral Lygos zamanında Sarayburnu'na, bugünkü Topkapı Sarayı'nın bulunduğu yerde bir Akropolis kuruldu."
+tur,Turkish,Turkic,Bunların,bu + n + lar + ın,4,Bu + nların,consensus,İstanbul,"Bunların yanı sıra, Müslümanların en kalabalık mezhep formunu Sünniler, bu mezhebi takiben de Aleviler nüfusça fazladır."
+tur,Turkish,Turkic,Müslümanların,müslüman + lar + ın,3,Müslüman + ların,consensus,İstanbul,"Bunların yanı sıra, Müslümanların en kalabalık mezhep formunu Sünniler, bu mezhebi takiben de Aleviler nüfusça fazladır."
+tur,Turkish,Turkic,kalabalık,kalabalık,1,kalabalık,consensus,İstanbul,"Bunların yanı sıra, Müslümanların en kalabalık mezhep formunu Sünniler, bu mezhebi takiben de Aleviler nüfusça fazladır."
+tur,Turkish,Turkic,mezhep,mezhep,1,mezhep,consensus,İstanbul,"Bunların yanı sıra, Müslümanların en kalabalık mezhep formunu Sünniler, bu mezhebi takiben de Aleviler nüfusça fazladır."
+tur,Turkish,Turkic,formunu,form + u + n + u,4,form + unu,consensus,İstanbul,"Bunların yanı sıra, Müslümanların en kalabalık mezhep formunu Sünniler, bu mezhebi takiben de Aleviler nüfusça fazladır."
+tur,Turkish,Turkic,Sünniler,sünni + ler,2,Sünni + ler,consensus,İstanbul,"Bunların yanı sıra, Müslümanların en kalabalık mezhep formunu Sünniler, bu mezhebi takiben de Aleviler nüfusça fazladır."
+tur,Turkish,Turkic,mezhebi,mezhep + i,2,mezheb + i,adjudicated,İstanbul,"Bunların yanı sıra, Müslümanların en kalabalık mezhep formunu Sünniler, bu mezhebi takiben de Aleviler nüfusça fazladır."
+tur,Turkish,Turkic,takiben,takib + en,2,takib + en,consensus,İstanbul,"Bunların yanı sıra, Müslümanların en kalabalık mezhep formunu Sünniler, bu mezhebi takiben de Aleviler nüfusça fazladır."
+tur,Turkish,Turkic,Aleviler,alevi + ler,2,Alevi + ler,consensus,İstanbul,"Bunların yanı sıra, Müslümanların en kalabalık mezhep formunu Sünniler, bu mezhebi takiben de Aleviler nüfusça fazladır."
+tur,Turkish,Turkic,nüfusça,nüfus + ça,2,nüfusça,consensus,İstanbul,"Bunların yanı sıra, Müslümanların en kalabalık mezhep formunu Sünniler, bu mezhebi takiben de Aleviler nüfusça fazladır."
+tur,Turkish,Turkic,fazladır,fazla + dır,2,fazla + dır,consensus,İstanbul,"Bunların yanı sıra, Müslümanların en kalabalık mezhep formunu Sünniler, bu mezhebi takiben de Aleviler nüfusça fazladır."
+tur,Turkish,Turkic,mevsimdir,mevsim + dir,2,mevsim + dir,consensus,İstanbul,"Yaz en kuru mevsimdir, ama Akdeniz iklimlerinin aksine kurak mevsim yoktur."
+tur,Turkish,Turkic,Akdeniz,akdeniz,1,Akdeniz,consensus,İstanbul,"Yaz en kuru mevsimdir, ama Akdeniz iklimlerinin aksine kurak mevsim yoktur."
+tur,Turkish,Turkic,iklimlerinin,iklim + ler + in + in,4,iklim + lerinin,consensus,İstanbul,"Yaz en kuru mevsimdir, ama Akdeniz iklimlerinin aksine kurak mevsim yoktur."
+tur,Turkish,Turkic,aksine,aksi + ne,2,aksine,consensus,İstanbul,"Yaz en kuru mevsimdir, ama Akdeniz iklimlerinin aksine kurak mevsim yoktur."
+tur,Turkish,Turkic,kurak,kurak,1,kurak,consensus,İstanbul,"Yaz en kuru mevsimdir, ama Akdeniz iklimlerinin aksine kurak mevsim yoktur."
+tur,Turkish,Turkic,mevsim,mevsim,1,mevsim,consensus,İstanbul,"Yaz en kuru mevsimdir, ama Akdeniz iklimlerinin aksine kurak mevsim yoktur."
+tur,Turkish,Turkic,yoktur,yok + tur,2,yok + tur,consensus,İstanbul,"Yaz en kuru mevsimdir, ama Akdeniz iklimlerinin aksine kurak mevsim yoktur."
+tur,Turkish,Turkic,yıllarda,yıl + lar + da,3,yıl + larda,consensus,İstanbul,"Son yıllarda inşa edilen çok yüksek yapılar, nüfusun hızlı büyümesi göz önüne alınarak yapılmışlardır."
+tur,Turkish,Turkic,edilen,et + il + en,3,ed + ilen,consensus,İstanbul,"Son yıllarda inşa edilen çok yüksek yapılar, nüfusun hızlı büyümesi göz önüne alınarak yapılmışlardır."
+tur,Turkish,Turkic,yapılar,yapı + lar,2,yapı + lar,consensus,İstanbul,"Son yıllarda inşa edilen çok yüksek yapılar, nüfusun hızlı büyümesi göz önüne alınarak yapılmışlardır."
+tur,Turkish,Turkic,nüfusun,nüfus + un,2,nüfus + un,consensus,İstanbul,"Son yıllarda inşa edilen çok yüksek yapılar, nüfusun hızlı büyümesi göz önüne alınarak yapılmışlardır."

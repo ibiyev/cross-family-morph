@@ -1,0 +1,230 @@
+{
+  "aze": [
+    {
+      "word": "başlanğıcını",
+      "gold_segmentation": "baş + la + n + ğıc + ı + n + ı",
+      "n_gold_morphemes": 7,
+      "pred_seed42": "başlanğıc + ını",
+      "pred_seed123": "başlanğıc + ını",
+      "pred_seed456": "başlanğıc + ını",
+      "n_pred_seed42": 2,
+      "source_article": "Bakı",
+      "sentence": "1890-cı illərdə Mərdəkanda tikilmiş Bakı sənayeçisi Murtuza Muxtarovun villası Bakı varlılarının şəhərkənarı bağ tikintilərinin başlanğıcını qoydu."
+    },
+    {
+      "word": "varlılarının",
+      "gold_segmentation": "var + lı + lar + ı + n + ın",
+      "n_gold_morphemes": 6,
+      "pred_seed42": "varlı + larının",
+      "pred_seed123": "varlı + larının",
+      "pred_seed456": "varlı + larının",
+      "n_pred_seed42": 2,
+      "source_article": "Bakı",
+      "sentence": "1890-cı illərdə Mərdəkanda tikilmiş Bakı sənayeçisi Murtuza Muxtarovun villası Bakı varlılarının şəhərkənarı bağ tikintilərinin başlanğıcını qoydu."
+    },
+    {
+      "word": "regionlarında",
+      "gold_segmentation": "region + lar + ı + n + da",
+      "n_gold_morphemes": 5,
+      "pred_seed42": "region + larında",
+      "pred_seed123": "region + larında",
+      "pred_seed456": "region + larında",
+      "n_pred_seed42": 2,
+      "source_article": "Bakı",
+      "sentence": "İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi."
+    },
+    {
+      "word": "şəhərinin",
+      "gold_segmentation": "şəhər + i + n + in",
+      "n_gold_morphemes": 4,
+      "pred_seed42": "şəhər + inin",
+      "pred_seed123": "şəhər + inin",
+      "pred_seed456": "şəhər + inin",
+      "n_pred_seed42": 2,
+      "source_article": "Bakı",
+      "sentence": "Fasadın mərkəzini Bakı şəhərinin gerbi bəzəyir."
+    },
+    {
+      "word": "şimaliqərb",
+      "gold_segmentation": "şimal + i + qərb",
+      "n_gold_morphemes": 3,
+      "pred_seed42": "şimaliqərb",
+      "pred_seed123": "şimaliqərb",
+      "pred_seed456": "şimaliqərb",
+      "n_pred_seed42": 1,
+      "source_article": "Bakı",
+      "sentence": "İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi."
+    }
+  ],
+  "tur": [
+    {
+      "word": "karşılaşılabilir",
+      "gold_segmentation": "karşı + laş + ıl + a + bil + ir",
+      "n_gold_morphemes": 6,
+      "pred_seed42": "karşılaş + ılabilir",
+      "pred_seed123": "karşılaş + ılabilir",
+      "pred_seed456": "karşılaş + ılabilir",
+      "n_pred_seed42": 2,
+      "source_article": "İstanbul",
+      "sentence": "Ayrıca kent içinde yaygın olarak başıboş sokak kedileri ve köpekleriyle karşılaşılabilir."
+    },
+    {
+      "word": "edilebilir",
+      "gold_segmentation": "et + il + e + bil + ir",
+      "n_gold_morphemes": 5,
+      "pred_seed42": "ed + ilebilir",
+      "pred_seed123": "ed + ilebilir",
+      "pred_seed456": "ed + ilebilir",
+      "n_pred_seed42": 2,
+      "source_article": "İstanbul",
+      "sentence": "Bugün İstanbul, eski Konstantinopolis'in metropol hâli olarak kabul edilebilir."
+    },
+    {
+      "word": "alışveriş",
+      "gold_segmentation": "al + ış + ver + iş",
+      "n_gold_morphemes": 4,
+      "pred_seed42": "alışveriş",
+      "pred_seed123": "alışveriş",
+      "pred_seed456": "alışveriş",
+      "n_pred_seed42": 1,
+      "source_article": "İstanbul",
+      "sentence": "Kadıköy ilçesindeki Bağdat Caddesi genişliği ve uzunluğuyla birçok alışveriş merkezi ve restoranı barındırmaktadır."
+    },
+    {
+      "word": "yağışlı",
+      "gold_segmentation": "yağ + ış + lı",
+      "n_gold_morphemes": 3,
+      "pred_seed42": "yağışlı",
+      "pred_seed123": "yağışlı",
+      "pred_seed456": "yağışlı",
+      "n_pred_seed42": 1,
+      "source_article": "İstanbul",
+      "sentence": "İstanbul'un yazları sıcak ve nemli; kışları soğuk, yağışlı ve bazen karlıdır."
+    },
+    {
+      "word": "fiziksel",
+      "gold_segmentation": "fizik + sel",
+      "n_gold_morphemes": 2,
+      "pred_seed42": "fiziksel",
+      "pred_seed123": "fiziksel",
+      "pred_seed456": "fiziksel",
+      "n_pred_seed42": 1,
+      "source_article": "İstanbul",
+      "sentence": "Cumhuriyet dönemi Cumhuriyet sonrası 1923-1950 yılları arasında fiziksel atılımlar oldu."
+    }
+  ],
+  "hun": [
+    {
+      "word": "esőzéseket",
+      "gold_segmentation": "eső + z + és + ek + et",
+      "n_gold_morphemes": 5,
+      "pred_seed42": "esőzés + eket",
+      "pred_seed123": "esőzés + eket",
+      "pred_seed456": "esőzés + eket",
+      "n_pred_seed42": 2,
+      "source_article": "Budapest",
+      "sentence": "Nagyobb tavaszi és őszi esőzéseket követően a szilárd burkolatú felületekre menekülnek az éticsigák."
+    },
+    {
+      "word": "legcsapadékosabb",
+      "gold_segmentation": "leg + csapadék + os + abb",
+      "n_gold_morphemes": 4,
+      "pred_seed42": "legcsapadékosabb",
+      "pred_seed123": "legcsapadékos + abb",
+      "pred_seed456": "legcsapadékosabb",
+      "n_pred_seed42": 1,
+      "source_article": "Budapest",
+      "sentence": "A csapadékmennyiség éves átlaga 516 mm, a legcsapadékosabb hónapok a június és a november."
+    },
+    {
+      "word": "legmagasabb",
+      "gold_segmentation": "leg + magas + abb",
+      "n_gold_morphemes": 3,
+      "pred_seed42": "legmagasabb",
+      "pred_seed123": "legmagas + abb",
+      "pred_seed456": "legmagasabb",
+      "n_pred_seed42": 1,
+      "source_article": "Budapest",
+      "sentence": "Az eddigi legmagasabb hőmérsékletet (40,7 °C) 2007."
+    },
+    {
+      "word": "egykori",
+      "gold_segmentation": "egykor + i",
+      "n_gold_morphemes": 2,
+      "pred_seed42": "egykori",
+      "pred_seed123": "egykori",
+      "pred_seed456": "egykori",
+      "n_pred_seed42": 1,
+      "source_article": "Budapest",
+      "sentence": "kerületben viszont az egykori települések (Pestszentlőrinc, Pestszentimre és Csepel) területe számos városrészre tagolódik."
+    },
+    {
+      "word": "építészeti",
+      "gold_segmentation": "épít + ész + et + i",
+      "n_gold_morphemes": 4,
+      "pred_seed42": "építészeti",
+      "pred_seed123": "építészeti",
+      "pred_seed456": "építészeti",
+      "n_pred_seed42": 1,
+      "source_article": "Budapest",
+      "sentence": "Építészet Budapesten építészeti szempontból is több európai és világviszonylatban is kimagasló épület található, melyek legtöbbje mára már az UNESCO világörökségi helyszíneihez tartozik."
+    }
+  ],
+  "fin": [
+    {
+      "word": "ruotsinkielisiä",
+      "gold_segmentation": "ruotsi + n + kieli + s + i + ä",
+      "n_gold_morphemes": 6,
+      "pred_seed42": "ruotsin + kielisiä",
+      "pred_seed123": "ruotsin + kielisiä",
+      "pred_seed456": "ruotsin + kielisiä",
+      "n_pred_seed42": 2,
+      "source_article": "Helsinki",
+      "sentence": "1900-luvun alussa suomen- ja ruotsinkielisiä oli Helsingissä suunnilleen yhtä paljon; työläisistä enemmistö oli suomenkielisiä."
+    },
+    {
+      "word": "Postinumeroalueista",
+      "gold_segmentation": "posti + numero + alue + i + sta",
+      "n_gold_morphemes": 5,
+      "pred_seed42": "Postinumeroalue + ista",
+      "pred_seed123": "Postinumeroalue + ista",
+      "pred_seed456": "Postinumeroalue + ista",
+      "n_pred_seed42": 2,
+      "source_article": "Helsinki",
+      "sentence": "Postinumeroalueista eniten ulkomaalaistaustaisia asuu Kontula - Vesala - Kivikko -alueella eli 43 prosenttia väestöstä."
+    },
+    {
+      "word": "tyylisuuntien",
+      "gold_segmentation": "tyyli + suunta + i + en",
+      "n_gold_morphemes": 4,
+      "pred_seed42": "tyyli + suuntien",
+      "pred_seed123": "tyyli + suuntien",
+      "pred_seed456": "tyyli + suuntien",
+      "n_pred_seed42": 2,
+      "source_article": "Helsinki",
+      "sentence": "1920-luvun klassismi vaihettui vähitellen pelkistyen funktionalismiin ja jätti Helsinkiin paljon rakennuksia, jotka tyylillisesti ovat näiden tyylisuuntien leikkauspinnalta."
+    },
+    {
+      "word": "tyylillisesti",
+      "gold_segmentation": "tyyli + llise + sti",
+      "n_gold_morphemes": 3,
+      "pred_seed42": "tyylillisesti",
+      "pred_seed123": "tyylillisesti",
+      "pred_seed456": "tyylillisesti",
+      "n_pred_seed42": 1,
+      "source_article": "Helsinki",
+      "sentence": "1920-luvun klassismi vaihettui vähitellen pelkistyen funktionalismiin ja jätti Helsinkiin paljon rakennuksia, jotka tyylillisesti ovat näiden tyylisuuntien leikkauspinnalta."
+    },
+    {
+      "word": "Eteläsatama",
+      "gold_segmentation": "etelä + satama",
+      "n_gold_morphemes": 2,
+      "pred_seed42": "Eteläsatama",
+      "pred_seed123": "Eteläsatama",
+      "pred_seed456": "Eteläsatama",
+      "n_pred_seed42": 1,
+      "source_article": "Helsinki",
+      "sentence": "Kruunuvuorenselän lahtia ovat Eteläsatama ja Pohjoissatama, joiden välissä on Katajanokka."
+    }
+  ]
+}

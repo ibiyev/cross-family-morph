@@ -1,0 +1,11 @@
+{
+  "label": "hun_to_aze_seed456",
+  "model_dir": "experiments/hun_seed456/best",
+  "test_tsv": "data/test_aze.tsv",
+  "metrics": {
+    "exact_match": 0.10857142857142857,
+    "stem_accuracy": 0.17142857142857143,
+    "suffix_accuracy": 0.11428571428571428,
+    "n_total": 350
+  }
+}

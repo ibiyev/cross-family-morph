@@ -1,0 +1,201 @@
+﻿word,pred_seed42,gold_segmentation,source,sentence,pred_seed123,pred_seed456,correct_seed42,correct_seed123,correct_seed456
+Fasadın,Fasad + ın,fasad + ın,Bakı,Fasadın mərkəzini Bakı şəhərinin gerbi bəzəyir.,Fasad + ın,Fasad + ın,1,1,1
+mərkəzini,mərkəz + ini,mərkəz + i + ni,Bakı,Fasadın mərkəzini Bakı şəhərinin gerbi bəzəyir.,mərkəz + ini,mərkəz + ini,0,0,0
+şəhərinin,şəhər + inin,şəhər + i + n + in,Bakı,Fasadın mərkəzini Bakı şəhərinin gerbi bəzəyir.,şəhər + inin,şəhər + inin,0,0,0
+gerbi,gerb + i,gerb + i,Bakı,Fasadın mərkəzini Bakı şəhərinin gerbi bəzəyir.,gerb + i,gerb + i,1,1,1
+bəzəyir,bəzə + yir,bəzə + yir,Bakı,Fasadın mərkəzini Bakı şəhərinin gerbi bəzəyir.,bəzə + yir,bəzə + yir,1,1,1
+şəhərin,şəhər + in,şəhər + in,Bakı,Şəhərin sosial həyatında tacirlərin rolu artır.,şəhər + in,şəhər + in,1,1,1
+sosial,sosial,sosial,Bakı,Şəhərin sosial həyatında tacirlərin rolu artır.,sosial,sosial,1,1,1
+həyatında,həyat + ında,həyat + ın + da,Bakı,Şəhərin sosial həyatında tacirlərin rolu artır.,həyat + ında,həyat + ında,0,0,0
+tacirlərin,tacir + lərin,tacir + lər + in,Bakı,Şəhərin sosial həyatında tacirlərin rolu artır.,tacir + lərin,tacir + lərin,0,0,0
+artır,art + ır,art + ır,Bakı,Şəhərin sosial həyatında tacirlərin rolu artır.,art + ır,art + ır,1,1,1
+İkinci,ikinc + i,iki + n + ci,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",İkinc + i,İkinc + i,0,0,0
+dünya,dünya,dünya,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",dünya,dünya,1,1,1
+müharibəsi,müharibə + si,müharibə + si,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",müharibə + si,müharibə + si,1,1,1
+Azərbaycandan,Azərbaycan + dan,azərbaycan + dan,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",Azərbaycan + dan,Azərbaycan + dan,1,1,1
+şimaliqərb,şimaliqərb,şimal + i + qərb,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",şimaliqərb,şimaliqərb,0,0,0
+regionlarında,region + larında,region + lar + ı + n + da,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",region + larında,region + larında,0,0,0
+başlansa,başla + nsa,başla + n + sa,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",başlan + sa,başlan + sa,0,0,0
+Adolf,Adolf,adolf,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",Adolf,Adolf,1,1,1
+Hitler,Hit + ler,hitler,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",Hit + ler,Hit + ler,0,0,0
+neftlə,neft + lə,neft + lə,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",neft + lə,neft + lə,1,1,1
+zəngin,zəng + in,zəngin,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",zəng + in,zəng + in,0,0,0
+Bakını,Bakı + nı,bakı + n + ı,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",Bakı + nı,Bakı + nı,0,0,0
+etməyi,et + məyi,et + mə + yi,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",etmə + yi,etmə + yi,0,0,0
+özünün,öz + ünün,öz + ü + n + ün,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",öz + ünün,öz + ünün,0,0,0
+məqsədlərindən,məqsəd + lərindən,məqsəd + lər + i + n + dən,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",məqsəd + lərindən,məqsəd + lərindən,0,0,0
+hesab,hesab,hesab,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",hesab,hesab,1,1,1
+edirdi,edir + di,ed + ir + di,Bakı,"İkinci dünya müharibəsi Azərbaycandan uzaq şimali-qərb regionlarında başlansa da, Adolf Hitler neftlə zəngin olan Bakını zəbt etməyi özünün əsas məqsədlərindən biri hesab edirdi.",edir + di,edir + di,0,0,0
+Bundan,Bun + dan,bu + n + dan,Bakı,"Bundan əlavə, istehsal olunmuş xammalı və neft məhsullarını Şimali Qafqaz və Volqa çayı ilə daşımaq mümkün deyildi.",Bun + dan,Bun + dan,0,0,0
+əlavə,əlavə,əlavə,Bakı,"Bundan əlavə, istehsal olunmuş xammalı və neft məhsullarını Şimali Qafqaz və Volqa çayı ilə daşımaq mümkün deyildi.",əlav + ə,əlav + ə,1,0,0
+istehsal,istehsal,istehsal,Bakı,"Bundan əlavə, istehsal olunmuş xammalı və neft məhsullarını Şimali Qafqaz və Volqa çayı ilə daşımaq mümkün deyildi.",istehsal,istehsal,1,1,1
+olunmuş,ol + unmuş,ol + un + muş,Bakı,"Bundan əlavə, istehsal olunmuş xammalı və neft məhsullarını Şimali Qafqaz və Volqa çayı ilə daşımaq mümkün deyildi.",olun + muş,olun + muş,0,0,0
+xammalı,xammal + ı,xammal + ı,Bakı,"Bundan əlavə, istehsal olunmuş xammalı və neft məhsullarını Şimali Qafqaz və Volqa çayı ilə daşımaq mümkün deyildi.",xammal + ı,xammal + ı,1,1,1
+məhsullarını,məhsul + larını,məhsul + lar + ı + nı,Bakı,"Bundan əlavə, istehsal olunmuş xammalı və neft məhsullarını Şimali Qafqaz və Volqa çayı ilə daşımaq mümkün deyildi.",məhsul + larını,məhsul + larını,0,0,0
+Şimali,şimal + i,şimal + i,Bakı,"Bundan əlavə, istehsal olunmuş xammalı və neft məhsullarını Şimali Qafqaz və Volqa çayı ilə daşımaq mümkün deyildi.",şimal + i,şimal + i,1,1,1
+Qafqaz,Qafqaz,qafqaz,Bakı,"Bundan əlavə, istehsal olunmuş xammalı və neft məhsullarını Şimali Qafqaz və Volqa çayı ilə daşımaq mümkün deyildi.",Qafqaz,Qafqaz,1,1,1
+Volqa,Volqa,volqa,Bakı,"Bundan əlavə, istehsal olunmuş xammalı və neft məhsullarını Şimali Qafqaz və Volqa çayı ilə daşımaq mümkün deyildi.",Volq + a,Volqa,1,0,1
+daşımaq,daşımaq,daşı + maq,Bakı,"Bundan əlavə, istehsal olunmuş xammalı və neft məhsullarını Şimali Qafqaz və Volqa çayı ilə daşımaq mümkün deyildi.",daşımaq,daşımaq,0,0,0
+mümkün,mümkü + n,mümkün,Bakı,"Bundan əlavə, istehsal olunmuş xammalı və neft məhsullarını Şimali Qafqaz və Volqa çayı ilə daşımaq mümkün deyildi.",mümkün,mümkün,0,1,1
+deyildi,deyil + di,deyil + di,Bakı,"Bundan əlavə, istehsal olunmuş xammalı və neft məhsullarını Şimali Qafqaz və Volqa çayı ilə daşımaq mümkün deyildi.",deyil + di,deyil + di,1,1,1
+şəhər,şəhər,şəhər,Bakı,Bakı şəhər İcra Hakimiyyətinin binası İstiqlaliyyət küçəsinin mərkəzində yerləşir.,şəhər,şəhər,1,1,1
+Hakimiyyətinin,Hakimiyyət + inin,hakimiyyət + i + n + in,Bakı,Bakı şəhər İcra Hakimiyyətinin binası İstiqlaliyyət küçəsinin mərkəzində yerləşir.,Hakimiyyət + inin,Hakimiyyət + inin,0,0,0
+binası,bina + sı,bina + sı,Bakı,Bakı şəhər İcra Hakimiyyətinin binası İstiqlaliyyət küçəsinin mərkəzində yerləşir.,bina + sı,bina + sı,1,1,1
+İstiqlaliyyət,İstiqlaliyyət,istiqlaliyyət,Bakı,Bakı şəhər İcra Hakimiyyətinin binası İstiqlaliyyət küçəsinin mərkəzində yerləşir.,İstiqlaliyyət,İstiqlaliyyət,0,0,0
+küçəsinin,küçə + sinin,küçə + si + n + in,Bakı,Bakı şəhər İcra Hakimiyyətinin binası İstiqlaliyyət küçəsinin mərkəzində yerləşir.,küçə + sinin,küçə + sinin,0,0,0
+mərkəzində,mərkəz + ində,mərkəz + i + n + də,Bakı,Bakı şəhər İcra Hakimiyyətinin binası İstiqlaliyyət küçəsinin mərkəzində yerləşir.,mərkəz + ində,mərkəz + ində,0,0,0
+yerləşir,yerləş + ir,yerləşir,Bakı,Bakı şəhər İcra Hakimiyyətinin binası İstiqlaliyyət küçəsinin mərkəzində yerləşir.,yerləş + ir,yerləş + ir,0,0,0
+Qurumlarla,Qurum + larla,qurum + lar + la,Bakı,"Din 2012-ci ildə Dini Qurumlarla İş üzrə Dövlət Komitəsinin verdiyi mənbəyə görə, Bakı ərazisində 120 məscid var.",Qurum + larla,Qurum + larla,0,0,0
+Dövlət,Dövlət,dövlət,Bakı,"Din 2012-ci ildə Dini Qurumlarla İş üzrə Dövlət Komitəsinin verdiyi mənbəyə görə, Bakı ərazisində 120 məscid var.",Dövlət,Dövlət,1,1,1
+Komitəsinin,Komitə + sinin,komitə + si + n + in,Bakı,"Din 2012-ci ildə Dini Qurumlarla İş üzrə Dövlət Komitəsinin verdiyi mənbəyə görə, Bakı ərazisində 120 məscid var.",Komitə + sinin,Komitə + sinin,0,0,0
+verdiyi,ver + diyi,ver + di + yi,Bakı,"Din 2012-ci ildə Dini Qurumlarla İş üzrə Dövlət Komitəsinin verdiyi mənbəyə görə, Bakı ərazisində 120 məscid var.",verdi + yi,verdi + yi,0,0,0
+mənbəyə,mənbə + yə,mənbə + yə,Bakı,"Din 2012-ci ildə Dini Qurumlarla İş üzrə Dövlət Komitəsinin verdiyi mənbəyə görə, Bakı ərazisində 120 məscid var.",mənbə + yə,mənbə + yə,1,1,1
+ərazisində,ərazi + sində,ərazi + si + n + də,Bakı,"Din 2012-ci ildə Dini Qurumlarla İş üzrə Dövlət Komitəsinin verdiyi mənbəyə görə, Bakı ərazisində 120 məscid var.",ərazi + sində,ərazi + sində,0,0,0
+məscid,məscid,məscid,Bakı,"Din 2012-ci ildə Dini Qurumlarla İş üzrə Dövlət Komitəsinin verdiyi mənbəyə görə, Bakı ərazisində 120 məscid var.",məsci + d,məscid,1,0,1
+İnternetdən,İnternet + dən,internet + dən,Bakı,İnternetdən 120 min nəfər istifadə edirdi və istifadəçilərin 90 faizi Bakıda idi.,İnternet + dən,İnternet + dən,0,0,0
+nəfər,nəfər,nəfər,Bakı,İnternetdən 120 min nəfər istifadə edirdi və istifadəçilərin 90 faizi Bakıda idi.,nəfər,nəfər,1,1,1
+istifadə,istifadə,istifadə,Bakı,İnternetdən 120 min nəfər istifadə edirdi və istifadəçilərin 90 faizi Bakıda idi.,istifad + ə,istifadə,1,0,1
+istifadəçilərin,istifadəçi + lərin,istifadə  + çi + lər + in,Bakı,İnternetdən 120 min nəfər istifadə edirdi və istifadəçilərin 90 faizi Bakıda idi.,istifadəçi + lərin,istifadəçi + lərin,0,0,0
+faizi,faiz + i,faiz + i,Bakı,İnternetdən 120 min nəfər istifadə edirdi və istifadəçilərin 90 faizi Bakıda idi.,faiz + i,faiz + i,1,1,1
+Bakıda,Bakı + da,Bakı + da,Bakı,İnternetdən 120 min nəfər istifadə edirdi və istifadəçilərin 90 faizi Bakıda idi.,Bakı + da,Bakı + da,1,1,1
+Həmin,Həmin,həmin,Bakı,Həmin fərmanla Bakı şəhəri quberniya mərkəzi statusu almışdır.,Həmin,Həm + in,1,1,0
+fərmanla,fərman + la,fərman + la,Bakı,Həmin fərmanla Bakı şəhəri quberniya mərkəzi statusu almışdır.,fərman + la,fərman + la,1,1,1
+şəhəri,şəhər + i,şəhər + i,Bakı,Həmin fərmanla Bakı şəhəri quberniya mərkəzi statusu almışdır.,şəhər + i,şəhər + i,1,1,1
+quberniya,quberniya,quberniya,Bakı,Həmin fərmanla Bakı şəhəri quberniya mərkəzi statusu almışdır.,quberniya,quber + niya,1,1,0
+mərkəzi,mərkəz + i,mərkəz + i,Bakı,Həmin fərmanla Bakı şəhəri quberniya mərkəzi statusu almışdır.,mərkəz + i,mərkəz + i,1,1,1
+statusu,status + u,status + u,Bakı,Həmin fərmanla Bakı şəhəri quberniya mərkəzi statusu almışdır.,status + u,status + u,1,1,1
+almışdır,al + mışdır,almışdır,Bakı,Həmin fərmanla Bakı şəhəri quberniya mərkəzi statusu almışdır.,almış + dır,almış + dır,0,0,0
+Nobel,Nobel,nobel,Bakı,"1872-ci ildə Nobel qardaşları Bakıda ""Branobel"" adlı ilk neft şirkətini təsis etdilər.",Nobel,Nobel,1,1,1
+qardaşları,qardaş + ları,qardaş + lar + ı,Bakı,"1872-ci ildə Nobel qardaşları Bakıda ""Branobel"" adlı ilk neft şirkətini təsis etdilər.",qardaş + ları,qardaş + ları,0,0,0
+Branobel,Branobel,branobel,Bakı,"1872-ci ildə Nobel qardaşları Bakıda ""Branobel"" adlı ilk neft şirkətini təsis etdilər.",Branobel,Branobel,1,1,1
+şirkətini,şirkət + ini,şirkət + i + n + i,Bakı,"1872-ci ildə Nobel qardaşları Bakıda ""Branobel"" adlı ilk neft şirkətini təsis etdilər.",şirkət + ini,şirkət + ini,0,0,0
+təsis,təsis,təsis,Bakı,"1872-ci ildə Nobel qardaşları Bakıda ""Branobel"" adlı ilk neft şirkətini təsis etdilər.",təsis,təsis,1,1,1
+etdilər,et + dilər,et + di + lər,Bakı,"1872-ci ildə Nobel qardaşları Bakıda ""Branobel"" adlı ilk neft şirkətini təsis etdilər.",et + dilər,etdi + lər,0,0,0
+bütün,bütü + n,bütün,Bakı,"Bakı şəhəri (bütün rayonları ilə birlikdə) ekoloji cəhətcə, qismən ağır metallar üzrə, gərgin zonadır.",bütün,bütün,0,1,1
+rayonları,rayon + ları,rayon + lar + ı,Bakı,"Bakı şəhəri (bütün rayonları ilə birlikdə) ekoloji cəhətcə, qismən ağır metallar üzrə, gərgin zonadır.",rayon + ları,rayon + ları,0,0,0
+birlikdə,birlik + də,bir + lik + də,Bakı,"Bakı şəhəri (bütün rayonları ilə birlikdə) ekoloji cəhətcə, qismən ağır metallar üzrə, gərgin zonadır.",birlik + də,birlik + də,0,0,0
+ekoloji,ekoloji,ekloji,Bakı,"Bakı şəhəri (bütün rayonları ilə birlikdə) ekoloji cəhətcə, qismən ağır metallar üzrə, gərgin zonadır.",ekoloj + i,ekoloji,0,0,0
+cəhətcə,cəhətcə,cəhət + cə,Bakı,"Bakı şəhəri (bütün rayonları ilə birlikdə) ekoloji cəhətcə, qismən ağır metallar üzrə, gərgin zonadır.",cəhətcə,cəhətcə,0,0,0
+qismən,qismən,qism + ən,Bakı,"Bakı şəhəri (bütün rayonları ilə birlikdə) ekoloji cəhətcə, qismən ağır metallar üzrə, gərgin zonadır.",qismən,qismən,0,0,0
+metallar,metal + lar,metal + lar,Bakı,"Bakı şəhəri (bütün rayonları ilə birlikdə) ekoloji cəhətcə, qismən ağır metallar üzrə, gərgin zonadır.",metal + lar,metal + lar,1,1,1
+gərgin,gərgin,gərgin,Bakı,"Bakı şəhəri (bütün rayonları ilə birlikdə) ekoloji cəhətcə, qismən ağır metallar üzrə, gərgin zonadır.",gərgin,gərgin,1,1,1
+zonadır,zona + dır,zona + dır,Bakı,"Bakı şəhəri (bütün rayonları ilə birlikdə) ekoloji cəhətcə, qismən ağır metallar üzrə, gərgin zonadır.",zona + dır,zona + dır,1,1,1
+Azərbaycan,Azərbaycan,azərbaycan,Bakı,2009-cu ildə Azərbaycan Dövlət Neft Akademiyasında baş verən terror hadisəsində 13 nəfər həlak olmuşdur.,Azərbaycan,Azərbaycan,1,1,1
+Akademiyasında,Akademiya + sında,akademiya + sı + n + da,Bakı,2009-cu ildə Azərbaycan Dövlət Neft Akademiyasında baş verən terror hadisəsində 13 nəfər həlak olmuşdur.,Akademiya + sında,Akademiya + sında,0,0,0
+verən,ver + ən,ver + ən,Bakı,2009-cu ildə Azərbaycan Dövlət Neft Akademiyasında baş verən terror hadisəsində 13 nəfər həlak olmuşdur.,verən,verə + n,1,0,0
+terror,terror,terror,Bakı,2009-cu ildə Azərbaycan Dövlət Neft Akademiyasında baş verən terror hadisəsində 13 nəfər həlak olmuşdur.,terror,terror,1,1,1
+hadisəsində,hadisə + sində,hadisə + si + n + də,Bakı,2009-cu ildə Azərbaycan Dövlət Neft Akademiyasında baş verən terror hadisəsində 13 nəfər həlak olmuşdur.,hadisə + sində,hadisə + sində,0,0,0
+həlak,həlak,həlak,Bakı,2009-cu ildə Azərbaycan Dövlət Neft Akademiyasında baş verən terror hadisəsində 13 nəfər həlak olmuşdur.,həlak,həlak,1,1,1
+olmuşdur,ol + muşdur,ol + muş + dur,Bakı,2009-cu ildə Azərbaycan Dövlət Neft Akademiyasında baş verən terror hadisəsində 13 nəfər həlak olmuşdur.,ol + muşdur,ol + muşdur,0,0,0
+illərdə,il + lərdə,il + lər + də,Bakı,1890-cı illərdə Mərdəkanda tikilmiş Bakı sənayeçisi Murtuza Muxtarovun villası Bakı varlılarının şəhərkənarı bağ tikintilərinin başlanğıcını qoydu.,il + lərdə,il + lərdə,0,0,0
+Mərdəkanda,Mərdəkan + da,mərdəkan + da,Bakı,1890-cı illərdə Mərdəkanda tikilmiş Bakı sənayeçisi Murtuza Muxtarovun villası Bakı varlılarının şəhərkənarı bağ tikintilərinin başlanğıcını qoydu.,Mərdəkan + da,Mərdəkan + da,1,1,1
+tikilmiş,tikil + miş,tik + il + miş,Bakı,1890-cı illərdə Mərdəkanda tikilmiş Bakı sənayeçisi Murtuza Muxtarovun villası Bakı varlılarının şəhərkənarı bağ tikintilərinin başlanğıcını qoydu.,tikil + miş,tikil + miş,0,0,0
+sənayeçisi,sənayeçi + si,sənaye + çi + si,Bakı,1890-cı illərdə Mərdəkanda tikilmiş Bakı sənayeçisi Murtuza Muxtarovun villası Bakı varlılarının şəhərkənarı bağ tikintilərinin başlanğıcını qoydu.,sənayeçi + si,sənayeçi + si,0,0,0
+Murtuza,Murtuz + a,murtuza,Bakı,1890-cı illərdə Mərdəkanda tikilmiş Bakı sənayeçisi Murtuza Muxtarovun villası Bakı varlılarının şəhərkənarı bağ tikintilərinin başlanğıcını qoydu.,Murtuz + a,Murtuz + a,0,0,0
+Muxtarovun,Muxtarov + un,muxtarov + un,Bakı,1890-cı illərdə Mərdəkanda tikilmiş Bakı sənayeçisi Murtuza Muxtarovun villası Bakı varlılarının şəhərkənarı bağ tikintilərinin başlanğıcını qoydu.,Muxtarov + un,Muxtarov + un,1,1,1
+villası,villa + sı,villa + sı,Bakı,1890-cı illərdə Mərdəkanda tikilmiş Bakı sənayeçisi Murtuza Muxtarovun villası Bakı varlılarının şəhərkənarı bağ tikintilərinin başlanğıcını qoydu.,villa + sı,villa + sı,1,1,1
+varlılarının,varlı + larının,var + lı + lar + ı + n + ın,Bakı,1890-cı illərdə Mərdəkanda tikilmiş Bakı sənayeçisi Murtuza Muxtarovun villası Bakı varlılarının şəhərkənarı bağ tikintilərinin başlanğıcını qoydu.,varlı + larının,varlı + larının,0,0,0
+şəhərkənarı,şəhərkənar + ı,şəhər + kənar + ı,Bakı,1890-cı illərdə Mərdəkanda tikilmiş Bakı sənayeçisi Murtuza Muxtarovun villası Bakı varlılarının şəhərkənarı bağ tikintilərinin başlanğıcını qoydu.,şəhərkənar + ı,şəhərkənar + ı,0,0,0
+tikintilərinin,tikinti + lərinin,tik + inti + lər + i + n + in,Bakı,1890-cı illərdə Mərdəkanda tikilmiş Bakı sənayeçisi Murtuza Muxtarovun villası Bakı varlılarının şəhərkənarı bağ tikintilərinin başlanğıcını qoydu.,tikinti + lərinin,tikinti + lərinin,0,0,0
+başlanğıcını,başlanğıc + ını,baş + la + n + ğıc + ı + n + ı,Bakı,1890-cı illərdə Mərdəkanda tikilmiş Bakı sənayeçisi Murtuza Muxtarovun villası Bakı varlılarının şəhərkənarı bağ tikintilərinin başlanğıcını qoydu.,başlanğıc + ını,başlanğıc + ını,0,0,0
+qoydu,qoy + du,qoy + du,Bakı,1890-cı illərdə Mərdəkanda tikilmiş Bakı sənayeçisi Murtuza Muxtarovun villası Bakı varlılarının şəhərkənarı bağ tikintilərinin başlanğıcını qoydu.,qoy + du,qoy + du,1,1,1
+Həmçinin,Həmçi + nin,həmçinin,Bakı,Həmçinin müxtəlif mənbələrdə Böyük Bakı kimi də qeyd olunur.,Həmçi + nin,Həmçi + nin,0,0,0
+müxtəlif,müxtəlif,müxtəlif,Bakı,Həmçinin müxtəlif mənbələrdə Böyük Bakı kimi də qeyd olunur.,müxtəlif,müxtəlif,1,1,1
+mənbələrdə,mənbə + lərdə,mənbə + lər + də,Bakı,Həmçinin müxtəlif mənbələrdə Böyük Bakı kimi də qeyd olunur.,mənbə + lərdə,mənbə + lərdə,0,0,0
+Böyük,Böyük,böyük,Bakı,Həmçinin müxtəlif mənbələrdə Böyük Bakı kimi də qeyd olunur.,Böyük,Böyük,1,1,1
+olunur,ol + unur,ol + un + ur,Bakı,Həmçinin müxtəlif mənbələrdə Böyük Bakı kimi də qeyd olunur.,ol + unur,ol + unur,0,0,0
+Bakının,Bakı + nın,bakı + n + ın,Bakı,"Bakının ən mühüm parklarından Zabitlər parkı, Filarmoniya bağı, Xaqani bağı, Dağüstü Park, Dədə Qorqud parkı və Mərkəzi Nəbatat Bağını qeyd etmək olar.",Bakı + nın,Bakı + nın,0,0,0
+mühüm,mühüm,mühüm,Bakı,"Bakının ən mühüm parklarından Zabitlər parkı, Filarmoniya bağı, Xaqani bağı, Dağüstü Park, Dədə Qorqud parkı və Mərkəzi Nəbatat Bağını qeyd etmək olar.",mühüm,mühüm,1,1,1
+parklarından,park + larından,park + lar + ı + n + dan,Bakı,"Bakının ən mühüm parklarından Zabitlər parkı, Filarmoniya bağı, Xaqani bağı, Dağüstü Park, Dədə Qorqud parkı və Mərkəzi Nəbatat Bağını qeyd etmək olar.",park + larından,park + larından,0,0,0
+Zabitlər,Zabit + lər,zabit + lər,Bakı,"Bakının ən mühüm parklarından Zabitlər parkı, Filarmoniya bağı, Xaqani bağı, Dağüstü Park, Dədə Qorqud parkı və Mərkəzi Nəbatat Bağını qeyd etmək olar.",Zabit + lər,Zabit + lər,1,1,1
+parkı,park + ı,parkı,Bakı,"Bakının ən mühüm parklarından Zabitlər parkı, Filarmoniya bağı, Xaqani bağı, Dağüstü Park, Dədə Qorqud parkı və Mərkəzi Nəbatat Bağını qeyd etmək olar.",park + ı,park + ı,0,0,0
+Filarmoniya,Filarmoniya,filarmoniya,Bakı,"Bakının ən mühüm parklarından Zabitlər parkı, Filarmoniya bağı, Xaqani bağı, Dağüstü Park, Dədə Qorqud parkı və Mərkəzi Nəbatat Bağını qeyd etmək olar.",Filarmoniya,Filarmoniya,1,1,1
+Xaqani,Xaqa + ni,xaqani,Bakı,"Bakının ən mühüm parklarından Zabitlər parkı, Filarmoniya bağı, Xaqani bağı, Dağüstü Park, Dədə Qorqud parkı və Mərkəzi Nəbatat Bağını qeyd etmək olar.",Xaqa + ni,Xaqa + ni,0,0,0
+Dağüstü,Dağüst + ü,dağ + üstü,Bakı,"Bakının ən mühüm parklarından Zabitlər parkı, Filarmoniya bağı, Xaqani bağı, Dağüstü Park, Dədə Qorqud parkı və Mərkəzi Nəbatat Bağını qeyd etmək olar.",Dağüst + ü,Dağüst + ü,0,0,0
+Qorqud,Qorqu + d,qorqud,Bakı,"Bakının ən mühüm parklarından Zabitlər parkı, Filarmoniya bağı, Xaqani bağı, Dağüstü Park, Dədə Qorqud parkı və Mərkəzi Nəbatat Bağını qeyd etmək olar.",Qorqu + d,Qorqu + d,0,0,0
+Nəbatat,Nəbatat,nəbatat,Bakı,"Bakının ən mühüm parklarından Zabitlər parkı, Filarmoniya bağı, Xaqani bağı, Dağüstü Park, Dədə Qorqud parkı və Mərkəzi Nəbatat Bağını qeyd etmək olar.",Nəbatat,Nəbatat,1,1,1
+Bağını,Bağ + ını,bağ + ı + n + ı,Bakı,"Bakının ən mühüm parklarından Zabitlər parkı, Filarmoniya bağı, Xaqani bağı, Dağüstü Park, Dədə Qorqud parkı və Mərkəzi Nəbatat Bağını qeyd etmək olar.",Bağ + ını,Bağ + ını,0,0,0
+etmək,et + mək,et + mək,Bakı,"Bakının ən mühüm parklarından Zabitlər parkı, Filarmoniya bağı, Xaqani bağı, Dağüstü Park, Dədə Qorqud parkı və Mərkəzi Nəbatat Bağını qeyd etmək olar.",et + mək,et + mək,1,1,1
+şəhərdə,şəhər + də,şəhər + də,Bakı,"Şəhərdə həm də Azərbaycanın ən böyük kitab mağazalar şəbəkəsi olan ""Əli və Nino"" yerləşir.",şəhər + də,şəhər + də,1,1,1
+Azərbaycanın,Azərbaycan + ın,azərbaycan + ın,Bakı,"Şəhərdə həm də Azərbaycanın ən böyük kitab mağazalar şəbəkəsi olan ""Əli və Nino"" yerləşir.",Azərbaycan + ın,Azərbaycan + ın,1,1,1
+kitab,kitab,kitab,Bakı,"Şəhərdə həm də Azərbaycanın ən böyük kitab mağazalar şəbəkəsi olan ""Əli və Nino"" yerləşir.",kitab,kitab,1,1,1
+mağazalar,mağaza + lar,mağaza + lar,Bakı,"Şəhərdə həm də Azərbaycanın ən böyük kitab mağazalar şəbəkəsi olan ""Əli və Nino"" yerləşir.",mağaza + lar,mağaza + lar,1,1,1
+şəbəkəsi,şəbəkə + si,şəbəkə + si,Bakı,"Şəhərdə həm də Azərbaycanın ən böyük kitab mağazalar şəbəkəsi olan ""Əli və Nino"" yerləşir.",şəbəkə + si,şəbəkə + si,1,1,1
+mərhələsi,mərhələ + si,mərhələ + si,Bakı,"2020-ci ildə şəhərdə UEFA Avro 2020-nin qrup mərhələsi və 1/4 finalı keçirilməli idi, amma COVID-19 pandemiyası səbəbindən turnir təxirə salındı.",mərhələ + si,mərhələ + si,1,1,1
+finalı,final + ı,final + ı,Bakı,"2020-ci ildə şəhərdə UEFA Avro 2020-nin qrup mərhələsi və 1/4 finalı keçirilməli idi, amma COVID-19 pandemiyası səbəbindən turnir təxirə salındı.",final + ı,final + ı,1,1,1
+keçirilməli,keçir + ilməli,keç + ir + il + məli,Bakı,"2020-ci ildə şəhərdə UEFA Avro 2020-nin qrup mərhələsi və 1/4 finalı keçirilməli idi, amma COVID-19 pandemiyası səbəbindən turnir təxirə salındı.",keçirilmə + li,keçirilmə + li,0,0,0
+COVID,COVID,covid,Bakı,"2020-ci ildə şəhərdə UEFA Avro 2020-nin qrup mərhələsi və 1/4 finalı keçirilməli idi, amma COVID-19 pandemiyası səbəbindən turnir təxirə salındı.",COVID,COVID,1,1,1
+pandemiyası,pandemiya + sı,pandemiya + sı,Bakı,"2020-ci ildə şəhərdə UEFA Avro 2020-nin qrup mərhələsi və 1/4 finalı keçirilməli idi, amma COVID-19 pandemiyası səbəbindən turnir təxirə salındı.",pandemiya + sı,pandemiya + sı,1,1,1
+səbəbindən,səbəb + indən,səbəb + in + dən,Bakı,"2020-ci ildə şəhərdə UEFA Avro 2020-nin qrup mərhələsi və 1/4 finalı keçirilməli idi, amma COVID-19 pandemiyası səbəbindən turnir təxirə salındı.",səbəb + indən,səbəb + indən,0,0,0
+turnir,tur + nir,turnir,Bakı,"2020-ci ildə şəhərdə UEFA Avro 2020-nin qrup mərhələsi və 1/4 finalı keçirilməli idi, amma COVID-19 pandemiyası səbəbindən turnir təxirə salındı.",tur + nir,tur + nir,0,0,0
+təxirə,təxir + ə,təxirə,Bakı,"2020-ci ildə şəhərdə UEFA Avro 2020-nin qrup mərhələsi və 1/4 finalı keçirilməli idi, amma COVID-19 pandemiyası səbəbindən turnir təxirə salındı.",təxir + ə,təxir + ə,0,0,0
+salındı,salın + dı,sal + ın + dı,Bakı,"2020-ci ildə şəhərdə UEFA Avro 2020-nin qrup mərhələsi və 1/4 finalı keçirilməli idi, amma COVID-19 pandemiyası səbəbindən turnir təxirə salındı.",salın + dı,salın + dı,0,0,0
+Buğanın,Buğa + nın,buğa + n + ın,Bakı,Buğanın sağ və sol tərəfi şir təsvirləri ilə əhatələnmişdir.,Buğa + nın,Buğa + nın,0,0,0
+tərəfi,tərəf + i,tərəf + i,Bakı,Buğanın sağ və sol tərəfi şir təsvirləri ilə əhatələnmişdir.,tərəf + i,tərəf + i,1,1,1
+təsvirləri,təsvir + ləri,təsvir + lər + i,Bakı,Buğanın sağ və sol tərəfi şir təsvirləri ilə əhatələnmişdir.,təsvir + ləri,təsvir + ləri,0,0,0
+əhatələnmişdir,əhatələ + nmişdir,əhatə + lən + miş + dir,Bakı,Buğanın sağ və sol tərəfi şir təsvirləri ilə əhatələnmişdir.,əhatə + lənmişdir,əhatə + lənmişdir,0,0,0
+dövrdə,dövr + də,dövr + də,Bakı,Bu dövrdə Cənubi Azərbaycandan da on minlərlə azərbaycanlı Bakıya miqrasiya etmişdi.,dövr + də,dövr + də,1,1,1
+Cənubi,Cənub + i,cənubi,Bakı,Bu dövrdə Cənubi Azərbaycandan da on minlərlə azərbaycanlı Bakıya miqrasiya etmişdi.,Cənub + i,Cənub + i,0,0,0
+minlərlə,min + lərlə,min + lər + lə,Bakı,Bu dövrdə Cənubi Azərbaycandan da on minlərlə azərbaycanlı Bakıya miqrasiya etmişdi.,min + lərlə,min + lərlə,0,0,0
+azərbaycanlı,azərbaycan + lı,azərbaycan + lı,Bakı,Bu dövrdə Cənubi Azərbaycandan da on minlərlə azərbaycanlı Bakıya miqrasiya etmişdi.,azərbaycan + lı,azərbaycan + lı,1,1,1
+Bakıya,Bakı + ya,bakı + ya,Bakı,Bu dövrdə Cənubi Azərbaycandan da on minlərlə azərbaycanlı Bakıya miqrasiya etmişdi.,Bakı + ya,Bakı + ya,1,1,1
+miqrasiya,miqrasiya,miqrasiya,Bakı,Bu dövrdə Cənubi Azərbaycandan da on minlərlə azərbaycanlı Bakıya miqrasiya etmişdi.,miqrasiya,miqrasiya,1,1,1
+etmişdi,et + mişdi,et + miş + di,Bakı,Bu dövrdə Cənubi Azərbaycandan da on minlərlə azərbaycanlı Bakıya miqrasiya etmişdi.,etmiş + di,etmiş + di,0,0,0
+XVIIXIX,XVIIX + ix,xviixix,Bakı,"XVII–XIX əsrlər Bakının zəngin təbii sərvətləri, habelə mühüm hərbi-strateji əhəmiyyəti XVIII əsrin əvvəllərindən etibarən Rusiyanın diqqətini cəlb edirdi.",XVIIX + ix,XVIIXIX,0,0,1
+əsrlər,əsr + lər,əsr + lər,Bakı,"XVII–XIX əsrlər Bakının zəngin təbii sərvətləri, habelə mühüm hərbi-strateji əhəmiyyəti XVIII əsrin əvvəllərindən etibarən Rusiyanın diqqətini cəlb edirdi.",əsr + lər,əsr + lər,1,1,1
+təbii,təbii,təbii,Bakı,"XVII–XIX əsrlər Bakının zəngin təbii sərvətləri, habelə mühüm hərbi-strateji əhəmiyyəti XVIII əsrin əvvəllərindən etibarən Rusiyanın diqqətini cəlb edirdi.",təbii,təb + ii,1,1,0
+sərvətləri,sərvət + ləri,sərvət + lər + i,Bakı,"XVII–XIX əsrlər Bakının zəngin təbii sərvətləri, habelə mühüm hərbi-strateji əhəmiyyəti XVIII əsrin əvvəllərindən etibarən Rusiyanın diqqətini cəlb edirdi.",sərvət + ləri,sərvət + ləri,0,0,0
+habelə,habelə,habelə,Bakı,"XVII–XIX əsrlər Bakının zəngin təbii sərvətləri, habelə mühüm hərbi-strateji əhəmiyyəti XVIII əsrin əvvəllərindən etibarən Rusiyanın diqqətini cəlb edirdi.",habel + ə,habel + ə,1,0,0
+hərbistrateji,hərbistratej + i,hərbi + strateji,Bakı,"XVII–XIX əsrlər Bakının zəngin təbii sərvətləri, habelə mühüm hərbi-strateji əhəmiyyəti XVIII əsrin əvvəllərindən etibarən Rusiyanın diqqətini cəlb edirdi.",hərbistratej + i,hərbistratej + i,0,0,0
+əhəmiyyəti,əhəmiyyət + i,əhəmiyyət + i,Bakı,"XVII–XIX əsrlər Bakının zəngin təbii sərvətləri, habelə mühüm hərbi-strateji əhəmiyyəti XVIII əsrin əvvəllərindən etibarən Rusiyanın diqqətini cəlb edirdi.",əhəmiyyət + i,əhəmiyyət + i,1,1,1
+XVIII,XVIII,xviii,Bakı,"XVII–XIX əsrlər Bakının zəngin təbii sərvətləri, habelə mühüm hərbi-strateji əhəmiyyəti XVIII əsrin əvvəllərindən etibarən Rusiyanın diqqətini cəlb edirdi.",XVII + i,XVIII,1,0,1
+əsrin,əsr + in,əsr + in,Bakı,"XVII–XIX əsrlər Bakının zəngin təbii sərvətləri, habelə mühüm hərbi-strateji əhəmiyyəti XVIII əsrin əvvəllərindən etibarən Rusiyanın diqqətini cəlb edirdi.",əsr + in,əsr + in,1,1,1
+əvvəllərindən,əvvəl + lərindən,əvvəl + lər + in + dən,Bakı,"XVII–XIX əsrlər Bakının zəngin təbii sərvətləri, habelə mühüm hərbi-strateji əhəmiyyəti XVIII əsrin əvvəllərindən etibarən Rusiyanın diqqətini cəlb edirdi.",əvvəl + lərindən,əvvəl + lərindən,0,0,0
+etibarən,etibar + ən,etibar + ən,Bakı,"XVII–XIX əsrlər Bakının zəngin təbii sərvətləri, habelə mühüm hərbi-strateji əhəmiyyəti XVIII əsrin əvvəllərindən etibarən Rusiyanın diqqətini cəlb edirdi.",etibar + ən,etibar + ən,1,1,1
+Rusiyanın,Rusiya + nın,rusiya + n + ın,Bakı,"XVII–XIX əsrlər Bakının zəngin təbii sərvətləri, habelə mühüm hərbi-strateji əhəmiyyəti XVIII əsrin əvvəllərindən etibarən Rusiyanın diqqətini cəlb edirdi.",Rusiya + nın,Rusiya + nın,0,0,0
+diqqətini,diqqət + ini,diqqət + i + ni,Bakı,"XVII–XIX əsrlər Bakının zəngin təbii sərvətləri, habelə mühüm hərbi-strateji əhəmiyyəti XVIII əsrin əvvəllərindən etibarən Rusiyanın diqqətini cəlb edirdi.",diqqət + ini,diqqət + ini,0,0,0
+aprel,aprel,aprel,Bakı,14 aprel 1967-ci ildə Bakı şəhərinin üçüncü gerbi qəbul edilmişdir.,aprel,aprel,1,1,1
+üçüncü,üçünc + ü,üç + ün + cü,Bakı,14 aprel 1967-ci ildə Bakı şəhərinin üçüncü gerbi qəbul edilmişdir.,üçünc + ü,üçünc + ü,0,0,0
+qəbul,qəbul,qəbul,Bakı,14 aprel 1967-ci ildə Bakı şəhərinin üçüncü gerbi qəbul edilmişdir.,qəbul,qəbul,1,1,1
+edilmişdir,edil + mişdir,et + il + miş + dir,Bakı,14 aprel 1967-ci ildə Bakı şəhərinin üçüncü gerbi qəbul edilmişdir.,edil + mişdir,edil + mişdir,0,0,0
+Statistika,Statistika,statistika,Bakı,"Dövlət Statistika Komitəsinin 2014-cü ildə yaydığı məlumata əsasən, Azərbaycanda 30 beşulduzlu otel var və onların əksəriyyəti Bakıda yerləşir.",Statistika,Statistika,1,1,1
+yaydığı,yay + dığı,yay + dığ + ı,Bakı,"Dövlət Statistika Komitəsinin 2014-cü ildə yaydığı məlumata əsasən, Azərbaycanda 30 beşulduzlu otel var və onların əksəriyyəti Bakıda yerləşir.",yaydığ + ı,yaydığ + ı,0,0,0
+məlumata,məlumat + a,məlumat + a,Bakı,"Dövlət Statistika Komitəsinin 2014-cü ildə yaydığı məlumata əsasən, Azərbaycanda 30 beşulduzlu otel var və onların əksəriyyəti Bakıda yerləşir.",məlumat + a,məlumat + a,1,1,1
+əsasən,əsası + n,əsas + ən,Bakı,"Dövlət Statistika Komitəsinin 2014-cü ildə yaydığı məlumata əsasən, Azərbaycanda 30 beşulduzlu otel var və onların əksəriyyəti Bakıda yerləşir.",əsasən,əsasən,0,0,0
+Azərbaycanda,Azərbaycan + da,azərbaycan + da,Bakı,"Dövlət Statistika Komitəsinin 2014-cü ildə yaydığı məlumata əsasən, Azərbaycanda 30 beşulduzlu otel var və onların əksəriyyəti Bakıda yerləşir.",Azərbaycan + da,Azərbaycan + da,1,1,1
+beşulduzlu,beşulduz + lu,beş + ulduz + lu,Bakı,"Dövlət Statistika Komitəsinin 2014-cü ildə yaydığı məlumata əsasən, Azərbaycanda 30 beşulduzlu otel var və onların əksəriyyəti Bakıda yerləşir.",beşulduz + lu,beşulduz + lu,0,0,0
+onların,on + ların,on + lar + ın,Bakı,"Dövlət Statistika Komitəsinin 2014-cü ildə yaydığı məlumata əsasən, Azərbaycanda 30 beşulduzlu otel var və onların əksəriyyəti Bakıda yerləşir.",on + ların,on + ların,0,0,0
+əksəriyyəti,əksəriyyət + i,əksər + iyyət + i,Bakı,"Dövlət Statistika Komitəsinin 2014-cü ildə yaydığı məlumata əsasən, Azərbaycanda 30 beşulduzlu otel var və onların əksəriyyəti Bakıda yerləşir.",əksəriyyət + i,əksəriyyət + i,0,0,0
+Müharibənin,Müharibə + nin,müharibə + n + in,Bakı,"Müharibənin həlledici mərhələsi olan 1942-ci ildə Xəzər dənizi ilə cəbhəyə 505 min ton, Həştərxan vasitəsilə 336 min ton neft məhsulları daşınmışdır.",Müharibə + nin,Müharibə + nin,0,0,0
+həlledici,həlledic + i,həlledici,Bakı,"Müharibənin həlledici mərhələsi olan 1942-ci ildə Xəzər dənizi ilə cəbhəyə 505 min ton, Həştərxan vasitəsilə 336 min ton neft məhsulları daşınmışdır.",həlledic + i,həlledic + i,0,0,0
+Xəzər,Xəzər,xəzər,Bakı,"Müharibənin həlledici mərhələsi olan 1942-ci ildə Xəzər dənizi ilə cəbhəyə 505 min ton, Həştərxan vasitəsilə 336 min ton neft məhsulları daşınmışdır.",Xəzər,Xəzər,1,1,1
+dənizi,dəniz + i,dəniz + i,Bakı,"Müharibənin həlledici mərhələsi olan 1942-ci ildə Xəzər dənizi ilə cəbhəyə 505 min ton, Həştərxan vasitəsilə 336 min ton neft məhsulları daşınmışdır.",dəniz + i,dəniz + i,1,1,1
+cəbhəyə,cəbhə + yə,cəbhə + y + ə,Bakı,"Müharibənin həlledici mərhələsi olan 1942-ci ildə Xəzər dənizi ilə cəbhəyə 505 min ton, Həştərxan vasitəsilə 336 min ton neft məhsulları daşınmışdır.",cəbhə + yə,cəbhə + yə,0,0,0
+Həştərxan,Həştərxan,həştərxan,Bakı,"Müharibənin həlledici mərhələsi olan 1942-ci ildə Xəzər dənizi ilə cəbhəyə 505 min ton, Həştərxan vasitəsilə 336 min ton neft məhsulları daşınmışdır.",Həştərxan,Həştərxan,1,1,1
+vasitəsilə,vasitə + silə,vasitə + si + lə,Bakı,"Müharibənin həlledici mərhələsi olan 1942-ci ildə Xəzər dənizi ilə cəbhəyə 505 min ton, Həştərxan vasitəsilə 336 min ton neft məhsulları daşınmışdır.",vasitə + silə,vasitə + silə,0,0,0
+məhsulları,məhsul + ları,məhsul + lar + ı,Bakı,"Müharibənin həlledici mərhələsi olan 1942-ci ildə Xəzər dənizi ilə cəbhəyə 505 min ton, Həştərxan vasitəsilə 336 min ton neft məhsulları daşınmışdır.",məhsul + ları,məhsul + ları,0,0,0
+daşınmışdır,daşın + mışdır,daşı + n + mış + dır,Bakı,"Müharibənin həlledici mərhələsi olan 1942-ci ildə Xəzər dənizi ilə cəbhəyə 505 min ton, Həştərxan vasitəsilə 336 min ton neft məhsulları daşınmışdır.",daşın + mışdır,daşınmış + dır,0,0,0
+əvvəllərində,əvvəl + lərində,əvvəl + lər + in + də,Bakı,"XVI əsrin əvvəllərində tarixçi Əmin Əhməd ər-Razinin məlumatına görə, Bakı ətrafında 500-ə qədər neft çalası və quyu mövcud olmuş və onlardan ağ və qara neft hasil edilmişdir.",əvvəl + lərində,əvvəl + lərində,0,0,0
+tarixçi,tarix + çi,tarix + çi,Bakı,"XVI əsrin əvvəllərində tarixçi Əmin Əhməd ər-Razinin məlumatına görə, Bakı ətrafında 500-ə qədər neft çalası və quyu mövcud olmuş və onlardan ağ və qara neft hasil edilmişdir.",tarixç + i,tarixçi,1,0,0
+Əhməd,Əhməd,Əhməd,Bakı,"XVI əsrin əvvəllərində tarixçi Əmin Əhməd ər-Razinin məlumatına görə, Bakı ətrafında 500-ə qədər neft çalası və quyu mövcud olmuş və onlardan ağ və qara neft hasil edilmişdir.",ƙhməd,Əhməd,1,0,1
+ərRazinin,ərRazi + nin,ərRazi + n + in,Bakı,"XVI əsrin əvvəllərində tarixçi Əmin Əhməd ər-Razinin məlumatına görə, Bakı ətrafında 500-ə qədər neft çalası və quyu mövcud olmuş və onlardan ağ və qara neft hasil edilmişdir.",ərRazi + nin,ərRazi + nin,0,0,0
+məlumatına,məlumat + ına,məlumat + ı + n + a,Bakı,"XVI əsrin əvvəllərində tarixçi Əmin Əhməd ər-Razinin məlumatına görə, Bakı ətrafında 500-ə qədər neft çalası və quyu mövcud olmuş və onlardan ağ və qara neft hasil edilmişdir.",məlumat + ına,məlumat + ına,0,0,0
+ətrafında,ətraf + ında,ətraf + ı + n + da,Bakı,"XVI əsrin əvvəllərində tarixçi Əmin Əhməd ər-Razinin məlumatına görə, Bakı ətrafında 500-ə qədər neft çalası və quyu mövcud olmuş və onlardan ağ və qara neft hasil edilmişdir.",ətraf + ında,ətraf + ında,0,0,0
+qədər,qədər,qədər,Bakı,"XVI əsrin əvvəllərində tarixçi Əmin Əhməd ər-Razinin məlumatına görə, Bakı ətrafında 500-ə qədər neft çalası və quyu mövcud olmuş və onlardan ağ və qara neft hasil edilmişdir.",qədər,qədər,1,1,1
+çalası,çala + sı,çala + sı,Bakı,"XVI əsrin əvvəllərində tarixçi Əmin Əhməd ər-Razinin məlumatına görə, Bakı ətrafında 500-ə qədər neft çalası və quyu mövcud olmuş və onlardan ağ və qara neft hasil edilmişdir.",çala + sı,çala + sı,1,1,1
+mövcud,mövcud,mövcud,Bakı,"XVI əsrin əvvəllərində tarixçi Əmin Əhməd ər-Razinin məlumatına görə, Bakı ətrafında 500-ə qədər neft çalası və quyu mövcud olmuş və onlardan ağ və qara neft hasil edilmişdir.",mövcu + d,mövcu + d,1,0,0
+olmuş,ol + muş,ol + muş,Bakı,"XVI əsrin əvvəllərində tarixçi Əmin Əhməd ər-Razinin məlumatına görə, Bakı ətrafında 500-ə qədər neft çalası və quyu mövcud olmuş və onlardan ağ və qara neft hasil edilmişdir.",ol + muş,ol + muş,1,1,1
+onlardan,on + lardan,o + n + lar + dan,Bakı,"XVI əsrin əvvəllərində tarixçi Əmin Əhməd ər-Razinin məlumatına görə, Bakı ətrafında 500-ə qədər neft çalası və quyu mövcud olmuş və onlardan ağ və qara neft hasil edilmişdir.",on + lardan,on + lardan,0,0,0
+hasil,hasil,hasil,Bakı,"XVI əsrin əvvəllərində tarixçi Əmin Əhməd ər-Razinin məlumatına görə, Bakı ətrafında 500-ə qədər neft çalası və quyu mövcud olmuş və onlardan ağ və qara neft hasil edilmişdir.",hasil,hasil,1,1,1
+illərində,il + lərində,il + lər + in + də,Bakı,XIII əsrin 30-cu illərində monqollar Azərbaycana hücum edərək bir çox şəhərləri işğal etdilər.,il + lərində,il + lərində,0,0,0
+monqollar,monqol + lar,monqol + lar,Bakı,XIII əsrin 30-cu illərində monqollar Azərbaycana hücum edərək bir çox şəhərləri işğal etdilər.,monqol + lar,monqol + lar,1,1,1
+Azərbaycana,Azərbaycan + a,azərbaycan + a,Bakı,XIII əsrin 30-cu illərində monqollar Azərbaycana hücum edərək bir çox şəhərləri işğal etdilər.,Azərbaycan + a,Azərbaycan + a,1,1,1
+hücum,hücum,hücum,Bakı,XIII əsrin 30-cu illərində monqollar Azərbaycana hücum edərək bir çox şəhərləri işğal etdilər.,hücum,hücum,1,1,1
+edərək,ed + ərək,et + ər + ək,Bakı,XIII əsrin 30-cu illərində monqollar Azərbaycana hücum edərək bir çox şəhərləri işğal etdilər.,edərək,edərək,0,0,0
+şəhərləri,şəhər + ləri,şəhər + lər + i,Bakı,XIII əsrin 30-cu illərində monqollar Azərbaycana hücum edərək bir çox şəhərləri işğal etdilər.,şəhər + ləri,şəhər + ləri,0,0,0
+işğal,işğal,işğal,Bakı,XIII əsrin 30-cu illərində monqollar Azərbaycana hücum edərək bir çox şəhərləri işğal etdilər.,işğal,işğal,1,1,1
+şəhərində,şəhər + ində,şəhər + in + də,Bakı,Bakı şəhərində və Abşeron yarımadasında insanlar çox qədim zamanlardan məskunlaşmış və burada yaşayış məntəqələri yaratmışlar.,şəhər + ində,şəhər + ində,0,0,0
+Abşeron,Abşeron,abşeron,Bakı,Bakı şəhərində və Abşeron yarımadasında insanlar çox qədim zamanlardan məskunlaşmış və burada yaşayış məntəqələri yaratmışlar.,Abşeron,Abşeron,1,1,1
+yarımadasında,yarımada + sında,yarımada + sı + n + da,Bakı,Bakı şəhərində və Abşeron yarımadasında insanlar çox qədim zamanlardan məskunlaşmış və burada yaşayış məntəqələri yaratmışlar.,yarımada + sında,yarımada + sında,0,0,0
+insanlar,insan + lar,insan + lar,Bakı,Bakı şəhərində və Abşeron yarımadasında insanlar çox qədim zamanlardan məskunlaşmış və burada yaşayış məntəqələri yaratmışlar.,insan + lar,insan + lar,1,1,1
+qədim,qədim,qədim,Bakı,Bakı şəhərində və Abşeron yarımadasında insanlar çox qədim zamanlardan məskunlaşmış və burada yaşayış məntəqələri yaratmışlar.,qədim,qədim,1,1,1
