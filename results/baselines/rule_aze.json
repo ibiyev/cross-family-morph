@@ -1,0 +1,10 @@
+{
+  "language": "aze",
+  "test_tsv": "data/test_aze.tsv",
+  "metrics": {
+    "n_total": 350,
+    "exact_match": 0.38285714285714284,
+    "stem_accuracy": 0.4742857142857143,
+    "suffix_accuracy": 0.38285714285714284
+  }
+}

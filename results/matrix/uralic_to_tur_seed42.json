@@ -1,0 +1,11 @@
+{
+  "label": "uralic_to_tur_seed42",
+  "model_dir": "/cross-family-morph/experiments/uralic_seed42/best",
+  "test_tsv": "/cross-family-morph/data/test_tur.tsv",
+  "metrics": {
+    "exact_match": 0.2078914535246413,
+    "stem_accuracy": 0.20937305053025576,
+    "suffix_accuracy": 0.2078914535246413,
+    "n_total": 12824
+  }
+}

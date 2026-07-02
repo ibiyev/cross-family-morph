@@ -1,0 +1,13 @@
+combined_model,test_lang,exact_match,monolingual,delta_vs_mono,in_training,n
+turkic,aze,0.9886,0.9724,0.0162,True,350
+turkic,tur,0.9566,0.9781,-0.0215,True,12824
+turkic,hun,0.3449,0.9704,-0.6255,False,46079
+turkic,fin,0.2464,0.9136,-0.6672,False,2553
+uralic,aze,0.4743,0.9724,-0.4981,False,350
+uralic,tur,0.2079,0.9781,-0.7702,False,12824
+uralic,hun,0.9551,0.9704,-0.0153,True,46079
+uralic,fin,0.888,0.9136,-0.0256,True,2553
+all4,aze,0.9714,0.9724,-0.001,True,350
+all4,tur,0.9532,0.9781,-0.0249,True,12824
+all4,hun,0.9606,0.9704,-0.0098,True,46079
+all4,fin,0.8978,0.9136,-0.0158,True,2553

@@ -1,0 +1,146 @@
+[
+  {
+    "train_lang": "aze",
+    "test_lang": "aze",
+    "seed": 123,
+    "exact_match": 0.9685714285714285,
+    "stem_accuracy": 0.9714285714285714,
+    "suffix_accuracy": 0.9742857142857143,
+    "n_total": 350
+  },
+  {
+    "train_lang": "aze",
+    "test_lang": "fin",
+    "seed": 123,
+    "exact_match": 0.20133176654915785,
+    "stem_accuracy": 0.2072072072072072,
+    "suffix_accuracy": 0.20407363885624755,
+    "n_total": 2553
+  },
+  {
+    "train_lang": "aze",
+    "test_lang": "hun",
+    "seed": 123,
+    "exact_match": 0.25310879142342496,
+    "stem_accuracy": 0.2551053625295688,
+    "suffix_accuracy": 0.2533258100219189,
+    "n_total": 46079
+  },
+  {
+    "train_lang": "aze",
+    "test_lang": "tur",
+    "seed": 123,
+    "exact_match": 0.53626013724267,
+    "stem_accuracy": 0.5406269494697442,
+    "suffix_accuracy": 0.539691203992514,
+    "n_total": 12824
+  },
+  {
+    "train_lang": "fin",
+    "test_lang": "aze",
+    "seed": 123,
+    "exact_match": 0.6514285714285715,
+    "stem_accuracy": 0.6742857142857143,
+    "suffix_accuracy": 0.6542857142857142,
+    "n_total": 350
+  },
+  {
+    "train_lang": "fin",
+    "test_lang": "fin",
+    "seed": 123,
+    "exact_match": 0.9044261652957305,
+    "stem_accuracy": 0.9044261652957305,
+    "suffix_accuracy": 0.9048178613396005,
+    "n_total": 2553
+  },
+  {
+    "train_lang": "fin",
+    "test_lang": "hun",
+    "seed": 123,
+    "exact_match": 0.3591006749278413,
+    "stem_accuracy": 0.3591223767876907,
+    "suffix_accuracy": 0.3592959916664858,
+    "n_total": 46079
+  },
+  {
+    "train_lang": "fin",
+    "test_lang": "tur",
+    "seed": 123,
+    "exact_match": 0.42942919525888956,
+    "stem_accuracy": 0.43457579538365565,
+    "suffix_accuracy": 0.4295071740486588,
+    "n_total": 12824
+  },
+  {
+    "train_lang": "hun",
+    "test_lang": "aze",
+    "seed": 123,
+    "exact_match": 0.16,
+    "stem_accuracy": 0.18,
+    "suffix_accuracy": 0.16285714285714287,
+    "n_total": 350
+  },
+  {
+    "train_lang": "hun",
+    "test_lang": "fin",
+    "seed": 123,
+    "exact_match": 0.19153936545240893,
+    "stem_accuracy": 0.1919310614962789,
+    "suffix_accuracy": 0.19153936545240893,
+    "n_total": 2553
+  },
+  {
+    "train_lang": "hun",
+    "test_lang": "hun",
+    "seed": 123,
+    "exact_match": 0.9706373836237766,
+    "stem_accuracy": 0.9711582282601618,
+    "suffix_accuracy": 0.9719177933548905,
+    "n_total": 46079
+  },
+  {
+    "train_lang": "hun",
+    "test_lang": "tur",
+    "seed": 123,
+    "exact_match": 0.07267623206487836,
+    "stem_accuracy": 0.07790081097941359,
+    "suffix_accuracy": 0.07345601996257019,
+    "n_total": 12824
+  },
+  {
+    "train_lang": "tur",
+    "test_lang": "aze",
+    "seed": 123,
+    "exact_match": 0.6,
+    "stem_accuracy": 0.7571428571428571,
+    "suffix_accuracy": 0.6828571428571428,
+    "n_total": 350
+  },
+  {
+    "train_lang": "tur",
+    "test_lang": "fin",
+    "seed": 123,
+    "exact_match": 0.22522522522522523,
+    "stem_accuracy": 0.2256169212690952,
+    "suffix_accuracy": 0.2256169212690952,
+    "n_total": 2553
+  },
+  {
+    "train_lang": "tur",
+    "test_lang": "hun",
+    "seed": 123,
+    "exact_match": 0.18811172117450464,
+    "stem_accuracy": 0.18813342303435404,
+    "suffix_accuracy": 0.18965255322381128,
+    "n_total": 46079
+  },
+  {
+    "train_lang": "tur",
+    "test_lang": "tur",
+    "seed": 123,
+    "exact_match": 0.9779320024953213,
+    "stem_accuracy": 0.9780099812850904,
+    "suffix_accuracy": 0.9780099812850904,
+    "n_total": 12824
+  }
+]

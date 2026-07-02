@@ -1,0 +1,145 @@
+{
+  "n_pairs": 12,
+  "correlations": {
+    "suffix_overlap": 0.6470338498047091,
+    "vowel_overlap": 0.6696351976543391,
+    "intra_family": 0.36164739014747516,
+    "syntactic_distance": 0.0,
+    "phonological_distance": 0.0,
+    "genetic_distance": 0.0
+  },
+  "rows": [
+    {
+      "train_lang": "aze",
+      "test_lang": "fin",
+      "exact_match": 0.2244418331374853,
+      "suffix_overlap": 0.03,
+      "vowel_overlap": 0.5,
+      "intra_family": 0.0,
+      "syntactic_distance": 1.0,
+      "phonological_distance": 1.0,
+      "genetic_distance": 1.0
+    },
+    {
+      "train_lang": "aze",
+      "test_lang": "hun",
+      "exact_match": 0.2530653877037262,
+      "suffix_overlap": 0.0,
+      "vowel_overlap": 0.4117647058823529,
+      "intra_family": 0.0,
+      "syntactic_distance": 1.0,
+      "phonological_distance": 1.0,
+      "genetic_distance": 1.0
+    },
+    {
+      "train_lang": "aze",
+      "test_lang": "tur",
+      "exact_match": 0.6487835308796007,
+      "suffix_overlap": 0.32954545454545453,
+      "vowel_overlap": 1.0,
+      "intra_family": 1.0,
+      "syntactic_distance": 1.0,
+      "phonological_distance": 1.0,
+      "genetic_distance": 1.0
+    },
+    {
+      "train_lang": "fin",
+      "test_lang": "aze",
+      "exact_match": 0.6342857142857142,
+      "suffix_overlap": 0.03,
+      "vowel_overlap": 0.5,
+      "intra_family": 0.0,
+      "syntactic_distance": 1.0,
+      "phonological_distance": 1.0,
+      "genetic_distance": 1.0
+    },
+    {
+      "train_lang": "fin",
+      "test_lang": "hun",
+      "exact_match": 0.3072549317476508,
+      "suffix_overlap": 0.02654867256637168,
+      "vowel_overlap": 0.375,
+      "intra_family": 1.0,
+      "syntactic_distance": 1.0,
+      "phonological_distance": 1.0,
+      "genetic_distance": 1.0
+    },
+    {
+      "train_lang": "fin",
+      "test_lang": "tur",
+      "exact_match": 0.4107142857142857,
+      "suffix_overlap": 0.03636363636363636,
+      "vowel_overlap": 0.5,
+      "intra_family": 0.0,
+      "syntactic_distance": 1.0,
+      "phonological_distance": 1.0,
+      "genetic_distance": 1.0
+    },
+    {
+      "train_lang": "hun",
+      "test_lang": "aze",
+      "exact_match": 0.10571428571428572,
+      "suffix_overlap": 0.0,
+      "vowel_overlap": 0.4117647058823529,
+      "intra_family": 0.0,
+      "syntactic_distance": 1.0,
+      "phonological_distance": 1.0,
+      "genetic_distance": 1.0
+    },
+    {
+      "train_lang": "hun",
+      "test_lang": "fin",
+      "exact_match": 0.18801410105757932,
+      "suffix_overlap": 0.02654867256637168,
+      "vowel_overlap": 0.375,
+      "intra_family": 1.0,
+      "syntactic_distance": 1.0,
+      "phonological_distance": 1.0,
+      "genetic_distance": 1.0
+    },
+    {
+      "train_lang": "hun",
+      "test_lang": "tur",
+      "exact_match": 0.0765751715533375,
+      "suffix_overlap": 0.0,
+      "vowel_overlap": 0.4117647058823529,
+      "intra_family": 0.0,
+      "syntactic_distance": 1.0,
+      "phonological_distance": 1.0,
+      "genetic_distance": 1.0
+    },
+    {
+      "train_lang": "tur",
+      "test_lang": "aze",
+      "exact_match": 0.4542857142857143,
+      "suffix_overlap": 0.32954545454545453,
+      "vowel_overlap": 1.0,
+      "intra_family": 1.0,
+      "syntactic_distance": 1.0,
+      "phonological_distance": 1.0,
+      "genetic_distance": 1.0
+    },
+    {
+      "train_lang": "tur",
+      "test_lang": "fin",
+      "exact_match": 0.21504112808460635,
+      "suffix_overlap": 0.03636363636363636,
+      "vowel_overlap": 0.5,
+      "intra_family": 0.0,
+      "syntactic_distance": 1.0,
+      "phonological_distance": 1.0,
+      "genetic_distance": 1.0
+    },
+    {
+      "train_lang": "tur",
+      "test_lang": "hun",
+      "exact_match": 0.14394843638099786,
+      "suffix_overlap": 0.0,
+      "vowel_overlap": 0.4117647058823529,
+      "intra_family": 0.0,
+      "syntactic_distance": 1.0,
+      "phonological_distance": 1.0,
+      "genetic_distance": 1.0
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "label": "morfessor_hun",
+  "metrics": {
+    "n_total": 46079,
+    "exact_match": 0.7108661212265891,
+    "stem_accuracy": 0.7131231146509256
+  }
+}

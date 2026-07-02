@@ -1,0 +1,10 @@
+{
+  "language": "tur",
+  "test_tsv": "data/test_tur.tsv",
+  "metrics": {
+    "n_total": 12824,
+    "exact_match": 0.11728009981285091,
+    "stem_accuracy": 0.1667186525265128,
+    "suffix_accuracy": 0.11728009981285091
+  }
+}

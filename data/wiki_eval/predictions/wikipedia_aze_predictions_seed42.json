@@ -1,0 +1,11 @@
+{
+  "label": "ood_aze_seed42",
+  "model_dir": "/cross-family-morph/experiments/aze_seed42/best",
+  "test_tsv": "/cross-family-morph/data/wiki_eval/candidates/wikipedia_aze_candidates.tsv",
+  "metrics": {
+    "exact_match": 0.265,
+    "stem_accuracy": 0.265,
+    "suffix_accuracy": 0.265,
+    "n_total": 200
+  }
+}

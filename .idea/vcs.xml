@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/data/ud-treebanks/UD_Azerbaijani-TueCL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/ud-treebanks/UD_Finnish-TDT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/ud-treebanks/UD_Hungarian-Szeged" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/ud-treebanks/UD_Turkish-BOUN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/ud-treebanks/UD_Turkish-IMST" vcs="Git" />
+  </component>
+</project>

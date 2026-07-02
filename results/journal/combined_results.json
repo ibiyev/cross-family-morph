@@ -1,0 +1,110 @@
+[
+  {
+    "combined_model": "turkic",
+    "test_lang": "aze",
+    "exact_match": 0.9886,
+    "monolingual": 0.9724,
+    "delta_vs_mono": 0.0162,
+    "in_training": true,
+    "n": 350
+  },
+  {
+    "combined_model": "turkic",
+    "test_lang": "tur",
+    "exact_match": 0.9566,
+    "monolingual": 0.9781,
+    "delta_vs_mono": -0.0215,
+    "in_training": true,
+    "n": 12824
+  },
+  {
+    "combined_model": "turkic",
+    "test_lang": "hun",
+    "exact_match": 0.3449,
+    "monolingual": 0.9704,
+    "delta_vs_mono": -0.6255,
+    "in_training": false,
+    "n": 46079
+  },
+  {
+    "combined_model": "turkic",
+    "test_lang": "fin",
+    "exact_match": 0.2464,
+    "monolingual": 0.9136,
+    "delta_vs_mono": -0.6672,
+    "in_training": false,
+    "n": 2553
+  },
+  {
+    "combined_model": "uralic",
+    "test_lang": "aze",
+    "exact_match": 0.4743,
+    "monolingual": 0.9724,
+    "delta_vs_mono": -0.4981,
+    "in_training": false,
+    "n": 350
+  },
+  {
+    "combined_model": "uralic",
+    "test_lang": "tur",
+    "exact_match": 0.2079,
+    "monolingual": 0.9781,
+    "delta_vs_mono": -0.7702,
+    "in_training": false,
+    "n": 12824
+  },
+  {
+    "combined_model": "uralic",
+    "test_lang": "hun",
+    "exact_match": 0.9551,
+    "monolingual": 0.9704,
+    "delta_vs_mono": -0.0153,
+    "in_training": true,
+    "n": 46079
+  },
+  {
+    "combined_model": "uralic",
+    "test_lang": "fin",
+    "exact_match": 0.888,
+    "monolingual": 0.9136,
+    "delta_vs_mono": -0.0256,
+    "in_training": true,
+    "n": 2553
+  },
+  {
+    "combined_model": "all4",
+    "test_lang": "aze",
+    "exact_match": 0.9714,
+    "monolingual": 0.9724,
+    "delta_vs_mono": -0.001,
+    "in_training": true,
+    "n": 350
+  },
+  {
+    "combined_model": "all4",
+    "test_lang": "tur",
+    "exact_match": 0.9532,
+    "monolingual": 0.9781,
+    "delta_vs_mono": -0.0249,
+    "in_training": true,
+    "n": 12824
+  },
+  {
+    "combined_model": "all4",
+    "test_lang": "hun",
+    "exact_match": 0.9606,
+    "monolingual": 0.9704,
+    "delta_vs_mono": -0.0098,
+    "in_training": true,
+    "n": 46079
+  },
+  {
+    "combined_model": "all4",
+    "test_lang": "fin",
+    "exact_match": 0.8978,
+    "monolingual": 0.9136,
+    "delta_vs_mono": -0.0158,
+    "in_training": true,
+    "n": 2553
+  }
+]

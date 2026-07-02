@@ -1,0 +1,5 @@
+lang,language,family,n_rows,unique_input_tokens,unique_target_tokens,unique_suffix_tokens,unique_all_tokens,vowel_inventory,n_vowels
+aze,Azerbaijani,Turkic,6293,6288,1075,949,6968,aeiouöüıə,9
+tur,Turkish,Turkic,230817,226621,19059,15901,234742,aeiouâéîöûüı,12
+hun,Hungarian,Uralic,829403,814489,31558,28191,824714,aeiouáäéíóôöúüőű,16
+fin,Finnish,Uralic,45947,43806,27232,19399,60047,aeiouáâäåéíîóôöúüı,18

@@ -1,0 +1,11 @@
+{
+  "label": "fin_to_fin_seed42",
+  "model_dir": "/cross-family-morph/experiments/fin_seed42/best",
+  "test_tsv": "/cross-family-morph/data/test_fin.tsv",
+  "metrics": {
+    "exact_match": 0.9369369369369369,
+    "stem_accuracy": 0.9369369369369369,
+    "suffix_accuracy": 0.9369369369369369,
+    "n_total": 2553
+  }
+}

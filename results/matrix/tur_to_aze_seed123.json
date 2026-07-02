@@ -1,0 +1,11 @@
+{
+  "label": "tur_to_aze_seed123",
+  "model_dir": "experiments/tur_seed123/best",
+  "test_tsv": "data/test_aze.tsv",
+  "metrics": {
+    "exact_match": 0.6,
+    "stem_accuracy": 0.7571428571428571,
+    "suffix_accuracy": 0.6828571428571428,
+    "n_total": 350
+  }
+}

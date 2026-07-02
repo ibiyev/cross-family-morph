@@ -1,0 +1,11 @@
+{
+  "label": "ood_fin_seed42",
+  "model_dir": "/cross-family-morph/experiments/fin_seed42/best",
+  "test_tsv": "/cross-family-morph/data/wiki_eval/candidates/wikipedia_fin_candidates.tsv",
+  "metrics": {
+    "exact_match": 0.225,
+    "stem_accuracy": 0.225,
+    "suffix_accuracy": 0.225,
+    "n_total": 200
+  }
+}

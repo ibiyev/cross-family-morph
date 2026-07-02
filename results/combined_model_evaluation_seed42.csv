@@ -1,0 +1,13 @@
+model,test_language,exact_match,stem_accuracy,suffix_accuracy,total_examples
+turkic,aze,,,,
+turkic,tur,,,,
+turkic,hun,,,,
+turkic,fin,,,,
+uralic,aze,,,,
+uralic,tur,,,,
+uralic,hun,,,,
+uralic,fin,,,,
+all4,aze,,,,
+all4,tur,,,,
+all4,hun,,,,
+all4,fin,,,,

@@ -1,0 +1,8 @@
+{
+  "label": "morfessor_aze",
+  "metrics": {
+    "n_total": 350,
+    "exact_match": 0.5142857142857142,
+    "stem_accuracy": 0.6685714285714286
+  }
+}
