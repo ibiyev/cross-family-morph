@@ -1,21 +1,79 @@
-MIT License
+# License
 
-Copyright (c) 2026 kamran.ibiyev
+This repository is released under **mixed licenses**. Most content is licensed
+under CC BY 4.0, but content derived from the Hungarian Universal Dependencies
+treebank (UD_Hungarian-Szeged) is licensed under CC BY-NC-SA 3.0 to match its
+source license. See the breakdown below for exactly what falls under each term.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## CC BY 4.0 — Attribution 4.0 International (default license)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Unless explicitly listed under CC BY-NC-SA 3.0 below, all content in this
+repository — including all code, scripts, the Azerbaijani/Turkish/Finnish
+derived datasets, the Turkic combined dataset (AZ+TR), the out-of-domain
+Wikipedia annotations, evaluation results, figures, and trained-model outputs —
+is released under the Creative Commons Attribution 4.0 International license.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+This means you are free to share, adapt, and use this content for any purpose,
+including commercially, provided you give appropriate credit. See "Citation"
+below for how to attribute.
+
+---
+
+## CC BY-NC-SA 3.0 — Attribution-NonCommercial-ShareAlike 3.0 (Hungarian-derived content)
+
+The following files are derived from UD_Hungarian-Szeged, which is licensed
+under CC BY-NC-SA 3.0. As required by that license's ShareAlike term, all
+derivative content is released under the same license:
+
+- `data/morph_hun.tsv`
+- `data/train_hun.tsv`
+- `data/val_hun.tsv`
+- `data/test_hun.tsv`
+- `data/morph_uralic.tsv` (contains Hungarian-derived rows)
+- `data/train_uralic.tsv` (contains Hungarian-derived rows)
+- `data/train_all4.tsv` (contains Hungarian-derived rows)
+- `data/ud-treebanks/UD_Hungarian-Szeged/*.conllu` (original treebank files,
+  redistributed here under their original license)
+
+Full license text: https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+
+**This means the files above may not be used for commercial purposes, and any
+derivative works built from them must also be released under CC BY-NC-SA 3.0.**
+This restriction does not apply to any other file in this repository.
+
+---
+
+## Third-party sources
+
+This repository redistributes or derives from the following third-party
+resources. Their original licenses govern the underlying material independent
+of the terms above:
+
+| Source | License | Used for |
+|---|---|---|
+| UniMorph 4.0 (Batsuren et al., 2022) | CC BY-SA 3.0 | Inflection tables (all 4 languages) |
+| UD_Azerbaijani-TueCL | CC BY-SA 4.0 | Azerbaijani treebank data |
+| UD_Turkish-BOUN | CC BY-SA 4.0 | Turkish treebank data |
+| UD_Turkish-IMST | CC BY-SA 4.0 | Turkish treebank data |
+| UD_Finnish-TDT | CC BY-SA 4.0 | Finnish treebank data |
+| UD_Hungarian-Szeged | CC BY-NC-SA 3.0 | Hungarian treebank data (see above) |
+| Wikipedia (aze/tur/hun/fin editions) | CC BY-SA | Source words for out-of-domain evaluation (words used, not redistributed as Wikipedia text) |
+
+Per-treebank `LICENSE.txt` files are included alongside each treebank under
+`data/ud-treebanks/`.
+
+---
+
+## Citation
+
+If you use this repository, please cite:
+
+> [Kamran Ibiyev]. "Cross-Family Morpheme Segmentation Across Turkic and Uralic
+> Languages: A ByT5 Study of Azerbaijani, Turkish, Hungarian, and Finnish."
+> *Big Data and Cognitive Computing*, 2026. https://doi.org/10.3390/bdcc[XXXXX]
+
+Data and code: https://doi.org/10.5281/zenodo.21084590
