@@ -145,3 +145,5 @@ Our scripts auto-detect V100 and force fp32 even if `--fp16` or `--bf16` is set.
 - Nivre et al. (2020). Universal Dependencies v2: An Evergrowing Multilingual Treebank Collection. *LREC 2020*.
 - Littell et al. (2017). URIEL and lang2vec. *EACL 2017*.
 - Virpioja et al. (2013). Morfessor 2.0: Python Implementation and Extensions for Morfessor Baseline. Aalto University.
+
+[![DOI](https://zenodo.org/badge/1286773531.svg)](https://doi.org/10.5281/zenodo.21182941)
